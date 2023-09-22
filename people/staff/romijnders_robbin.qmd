@@ -1,0 +1,37 @@
+---
+title: "Robbin Romijnders"
+sortby: "2"
+subtitle: "Algorithm Engineer"
+image: placeholder.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+TBA
+
+## Education
+
+- [University of Kiel]{.fw-bold} | Kiel, Schleswig-Holstein, Germany<br />
+  PhD Student (Electrical and Information Engineering), 2019–2023
+
+- [Eindhoven University of Technology]{.fw-bold} | Eindhoven, The Netherlands<br />
+  MSc in Biomedical Engineering | 2012–2015
+
+- [Eindhoven University of Technology]{.fw-bold} | Eindhoven, The Netherlands<br />
+  BSc in Biomedical Engineering | 2008–2012
