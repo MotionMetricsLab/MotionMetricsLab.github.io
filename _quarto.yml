@@ -1,7 +1,5 @@
 project:
   type: website
-  resources:
-    - CNAME
   output-dir: docs
 
 execute:
@@ -10,6 +8,7 @@ execute:
 website:
   title: "Motion Metrics"
   navbar:
+    logo: img/MotionMetricsWhiteNobg.png
     background: primary
     right:
       - href: news.qmd
@@ -27,8 +26,11 @@ website:
   # site-url: https://affcom.ku.edu
   repo-url: https://github.com/MotionMetricsLab
 
+
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    logo: MotionMetricsMain.png
+    main_color: "#00c3b3"

@@ -10,7 +10,7 @@
 }
 
 .quarto-about-jolla p.subtitle {
- text-align: center;
+  text-align: center;
 }
 
 .card-other-values {
@@ -39,7 +39,24 @@
 }
 
 iframe.slide-deck {
-  border: 3px solid #dee2e6;
+  border: 3px solid #00c3b3;
   width: 100%;
   height: 475px;
+}
+
+
+/* Set main color
+-------------------------------------------------------------- */
+
+/* Use the main color for the Quarto header */
+.quarto-header {
+  background-color: var(--main-color);
+}
+
+.navbar {
+  background-color: #00c3b3; /* set the main color */
+}
+
+.navbar-brand img {
+  max-height: 80px; /* set the maximum height of the logo */
 }
