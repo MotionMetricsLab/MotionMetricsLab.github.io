@@ -1,0 +1,17 @@
+---
+title: "How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease"
+type: "article"
+author: "Clint Hansen, Alvaro Sanchez-Ferro, Walter Maetzler"
+year: "2018"
+publication: "Journal of Parkinson's disease"
+doi: "https://doi.org/10.3233/jpd-181498"
+toc: false
+---
+
+## Citation (APA 7)
+
+> Hansen, C., Sanchez-Ferro, A., & Maetzler, W. (2018). How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease. In P. Brundin, J. W. Langston, & B. R. Bloem (Eds.), Journal of Parkinson’s Disease (Vol. 8, Issue s1, pp. S41–S45). IOS Press. https://doi.org/10.3233/jpd-181498.
+
+## Abstract
+
+Care of patients with Parkinson’s disease (PD) will dramatically change in the upcoming years. The nationwide implementations of the patient-controlled electronic health record (EHR) and the technology-based home monitoring system will most probably be the cornerstones of this revolution. We speculate that, within the course of the next decade, EHRs will lead to a substantial empowerment of patients, and monitoring of motor and non-motor manifestations of PD will shift from the clinic to the home. As far as this can be foreseen, small, partly clothing-embedded and implanted sensor systems allowing passive (i.e., non-obtrusive) data collection will dominate the market. They will interoperate with the personal EHR and other potentially health-related electronic databases such as clinical warehouses and population health analytics platforms. Analysis software will be mainly built on artificial intelligence, and presentation of data will be intuitive. This scenario will eventually help both the patient and the medical professional by providing higher amounts of quality information about daily-relevant effects of disease and treatment, eventually allowing for a better and more personalized care.

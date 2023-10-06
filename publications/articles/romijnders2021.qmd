@@ -1,0 +1,17 @@
+---
+title: "Validation of IMU-based gait event detection during curved walking and turning in older adults and Parkinson’s Disease patients"
+type: "article"
+author: "Robbin Romijnders, Elke Warmerdam, Clint Hansen, Julius Welzel, Gerhard Schmidt, Walter Maetzler"
+year: "2021"
+publication: " Journal of NeuroEngineering and Rehabilitation"
+doi: "https://doi.org/10.1186/s12984-021-00828-0"
+toc: false
+---
+
+## Citation (APA 7)
+
+> Romijnders, R., Warmerdam, E., Hansen, C. et al. Validation of IMU-based gait event detection during curved walking and turning in older adults and Parkinson’s Disease patients. J NeuroEngineering Rehabil 18, 28 (2021). https://doi.org/10.1186/s12984-021-00828-0
+
+## Abstract
+
+Identification of individual gait events is essential for clinical gait analysis, because it can be used for diagnostic purposes or tracking disease progression in neurological diseases such as Parkinson’s disease. Previous research has shown that gait events can be detected from a shank-mounted inertial measurement unit (IMU), however detection performance was often evaluated only from straight-line walking. For use in daily life, the detection performance needs to be evaluated in curved walking and turning as well as in single-task and dual-task conditions.Participants (older adults, people with Parkinson’s disease, or people who had suffered from a stroke) performed three different walking trials: (1) straight-line walking, (2) slalom walking, (3) Stroop-and-walk trial. An optical motion capture system was used a reference system. Markers were attached to the heel and toe regions of the shoe, and participants wore IMUs on the lateral sides of both shanks. The angular velocity of the shank IMUs was used to detect instances of initial foot contact (IC) and final foot contact (FC), which were compared to reference values obtained from the marker trajectories.The detection method showed high recall, precision and F1 scores in different populations for both initial contacts and final contacts during straight-line walking. Shank-mounted IMUs can be used to detect gait events during straight-line walking, slalom walking and turning. However, more false events were observed during turning and more events were missed during turning. For use in daily life we recommend identifying turning before extracting temporal gait parameters from identified gait events.

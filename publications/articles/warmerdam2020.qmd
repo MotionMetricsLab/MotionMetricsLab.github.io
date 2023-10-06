@@ -1,0 +1,17 @@
+---
+title: "Long-term unsupervised mobility assessment in movement disorders"
+type: "article"
+author: "Elke Warmerdam and Jeffrey M Hausdorff and Arash Atrsaei and Yuhan Zhou and Anat Mirelman and Kamiar Aminian and Alberto J Espay and Clint Hansen and Luc J W Evers and Andreas Keller and Claudine Lamoth and Andrea Pilotto and Lynn Rochester and Gerhard Schmidt and Bastiaan R Bloem and Walter Maetzler"
+year: "2022"
+publication: "The Lancet Neurology"
+doi: "https://doi.org/10.1016/S1474-4422(19)30397-7"
+toc: false
+---
+
+## Citation (APA 7)
+
+> Warmerdam, E., Hausdorff, J. M., Atrsaei, A., Zhou, Y., Mirelman, A., Aminian, K., Espay, A. J., Hansen, C., Evers, L. J. W., Keller, A., Lamoth, C., Pilotto, A., Rochester, L., Schmidt, G., Bloem, B. R., & Maetzler, W. (2020). Long-term unsupervised mobility assessment in movement disorders. In The Lancet Neurology (Vol. 19, Issue 5, pp. 462–470). Elsevier BV. https://doi.org/10.1016/s1474-4422(19)30397-7.
+
+## Abstract
+
+Mobile health technologies (wearable, portable, body-fixed sensors, or domestic-integrated devices) that quantify mobility in unsupervised, daily living environments are emerging as complementary clinical assessments. Data collected in these ecologically valid, patient-relevant settings can overcome limitations of conventional clinical assessments, as they capture fluctuating and rare events. These data could support clinical decision making and could also serve as outcomes in clinical trials. However, studies that directly compared assessments made in unsupervised and supervised (eg, in the laboratory or hospital) settings point to large disparities, even in the same parameters of mobility. These differences appear to be affected by psychological, physiological, cognitive, environmental, and technical factors, and by the types of mobilities and diagnoses assessed. To facilitate the successful adaptation of the unsupervised assessment of mobility into clinical practice and clinical trials, clinicians and researchers should consider these disparities and the multiple factors that contribute to them.
