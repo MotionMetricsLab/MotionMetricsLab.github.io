@@ -3,7 +3,8 @@ pagetitle: "Publications | AffCom Lab"
 toc: false
 listing:
   - id: articles
-    contents: "publications/**.qmd"
+    contents: "publications/*/**.qmd"
+    template: ./ejs/article.ejs
     categories: true
     sort:
       - "year desc"
