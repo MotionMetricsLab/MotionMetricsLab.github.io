@@ -22,48 +22,39 @@ about:
 :::{#person-profile}
 :::
 
-## Biography
-Dr. Jeffrey Girard studies how emotions are expressed through verbal and nonverbal behavior, as well as how interpersonal communication is influenced by individual differences (e.g., personality and mental health) and social factors (e.g., culture and context). This work is deeply interdisciplinary and draws insights and tools from various areas of social science, computer science, statistics, and medicine.
-
-He completed his doctoral training under the mentorship of Dr. Jeffrey Cohn (nonverbal behavior, machine learning, depression) and Dr. Aidan Wright (interpersonal functioning, statistics, personality). He then completed his predoctoral clinical internship at the University of Mississippi Medical Center (inpatient psychiatry, trauma treatment, neuropsychology) and a two-year postdoctoral research fellowship at Carnegie Mellon University under the mentorship of Dr. Louis-Philippe Morency (verbal behavior, machine learning, computer science). 
-
-He is now an Assistant Professor in the department of Psychology at the University of Kansas, where he directs the Affective Communication and Computing lab and the Brain, Behavior, and Quantitative Science (BBQ) program. He teaches undergraduate and graduate courses on psychological assessment, data science, and statistics within the department and offers several summer "bootcamp" courses for graduate students and faculty (on data science and machine learning) through [Pitt Methods](https://www.pittmethods.com). He is also the developer and maintainer of numerous open-source research software packages (see [Resources](../../resources.qmd)).
+## About me
+My research focuses on understanding and characterizing the biomechanics of human movement, using theoretical frameworks and experimental studies. I am mainly interested in understanding the exploited motor strategies that help to explain the movements. The use of motion analysis combined with biomechanical protocols allows developing an understanding of how motor actions are planned and executed.
 
 ## Experience
 
-- **University of Kansas** | Lawrence, KS, USA<br />
-  Assistant Professor of Psychology | 2020–Current<br />
-  Wright Faculty Scholar | 2020–2025<br />
-  Director of the [BBQ Program](https://psychology.ku.edu/bbq) | 2022–Current
+- **Universitätskrankenhaus Schleswig-Holstein** | Kiel, Germany<br />
+  Operations Project Lead & Deputy Working Group Leader, Neurogeriatrics | 07/2017–Present<br />
+  Responsibilities include conceptual planning and practical implementation of research and industrial projects, leading a team of PhDs and Postdocs, and training scientific juniors while supporting the university's teaching program.
 
-- **Carnegie Mellon University** | Pittsburgh, PA, USA<br />
-  Postdoctoral Researcher, School of Computer Science | 2018–2020
+- **ASPETAR Hospital** | Doha, Qatar<br />
+  Project Leader, Ligament Research | 03/2016–06/2017<br />
+  Responsibilities included planning and developing the Assessment Center, creating and leading the team, and ensuring project performance and clinical relevance.
 
-- **University of Mississippi Medical Center** | Jackson, MS, USA<br />
-  Clinical Intern, Department of Psychiatry | 2017–2018
+- **Nanyang Technological University** | Singapore<br />
+  Research Associate | 08/2015–03/2016<br />
+  Responsibilities included validating a novel, cable-driven, planar manipulator, human-robot interaction, and signal processing and numerical simulations.
 
-## Journal Editing
+- **Sorbonne Universities** | Compiègne, France<br />
+  Research Associate | 10/2013–08/2015<br />
+  Responsibilities included collaboration on the MANDARIN project and data analysis of 3D movement.
 
-- **NPP Digital Psychiatry and Neuroscience** <a href="https://www.nature.com/dpn/" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br />
-  Consulting Editor | 2023–Current
-- **Journal of Psychopathology and Clinical Science** <a href="https://www.apa.org/pubs/journals/abn" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br />
-  Consulting Editor | 2023–Current
-- **IEEE Transactions on Affective Computing** <a href="https://www.computer.org/csdl/journal/ta" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br />
-  Associate Editor | 2022–Current
-- **Collabra Psychology** <a href="https://online.ucpress.edu/collabra" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br />
-  Associate Editor | 2021–Current
-- **Clinical Psychological Science** <a href="https://journals.sagepub.com/home/cpx" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br />
-  Consulting Editor | 2021–Current
-- **Psychological Assessment** <a href="https://www.apa.org/pubs/journals/pas" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br />
-  Consulting Editor | 2020–2022
+## Journal activities
+
+- **Sensors** <a href="https://www.mdpi.com/journal/sensors" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br />
+  Editor | 2018–Current
+- **Gait and Posture** <a href="https://www.us.elsevierhealth.com/gait-posture-0966-6362.html" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br />
+  Editor | 2022–Current
+
 
 ## Education
 
-- **University of Pittsburgh** | Pittsburgh, PA, USA<br />
-  PhD in Psychology (Clinical) | 2013–2018
+- **Paris-Sud University** | Paris, France<br />
+  PhD in Human Movement Science (Distinction) | 10/2010 - 09/2013
 
-- **University of Pittsburgh** | Pittsburgh, PA, USA<br />
-  MS in Psychology (Clinical) | 2010–2013
-
-- **University of Washington** | Seattle, WA, USA<br />
-  BA in Psychology & Philosophy (Honors) | 2005–2008 
+- **Christian-Albrechts-University of Kiel** | Kiel, Germany<br />
+  Magister Atrium in Sports Science | 10/2004 - 09/2010

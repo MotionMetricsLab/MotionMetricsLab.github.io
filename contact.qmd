@@ -1,21 +1,14 @@
 ---
 pagetitle: "Contact | Motion Metrics"
 toc: false
-email-obfuscation: javascript
 ---
 
-```{=html}
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Contact</li>
-  </ol>
-</nav>
-```
 
 ## Visit Us
 
 Motion Metrics is located in **Kiel**.
+
+If you are interested in working with us, please drop us a line via [mail](mailto:info@motionmetrics.de).
 
 <!-- > **Street Address:** 1415 Jayhawk Blvd, Lawrence, KS 66044
 >
