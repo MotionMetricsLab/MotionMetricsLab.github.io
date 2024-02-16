@@ -30,3 +30,6 @@ format:
     logo: MotionMetricsMain.png
     main_color: "#00c3b3"
     css: styles.css
+    font:
+      family: Tw Cen MT, sans-serif
+    
