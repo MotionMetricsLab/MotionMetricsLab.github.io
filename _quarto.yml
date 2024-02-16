@@ -11,8 +11,6 @@ website:
     logo: img/MotionMetricsWhiteNobg.png
     background: primary
     right:
-      - href: news.qmd
-        text: News
       - href: services.qmd
         text: Services
       - href: people.qmd
