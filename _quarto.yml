@@ -29,4 +29,4 @@ format:
     toc: true
     logo: MotionMetricsMain.png
     main_color: "#00c3b3"
-    style: styles.css
+    css: styles.css
