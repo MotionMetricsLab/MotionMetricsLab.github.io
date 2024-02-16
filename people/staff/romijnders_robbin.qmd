@@ -9,29 +9,51 @@ about:
   template: jolla
 ---
 
-```{=html}
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
-    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
-    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
-  </ol>
-</nav>
-```
 
 :::{#person-profile}
 :::
 
-## Biography
-TBA
+## About me
+
+I am an electrical and information engineer with a profound interest in the intersection of engineering and biomedical sciences, particularly as they apply to human health and medical technology. My educational journey in biomedical engineering at the Eindhoven University of Technology laid a strong foundation in this interdisciplinary field. This was further enriched by my pursuit of a Ph.D. in Electrical and Information Engineering at Kiel University, where I delved deep into the complexities of integrating engineering principles with biological systems.
+
+My research trajectory has been marked by a consistent focus on applying engineering solutions to medical challenges. My work as a postdoctoral researcher at the University Hospital Schleswig-Holstein epitomizes this, where I employ my engineering expertise to contribute to medical research. This role, coupled with my previous experience as a doctoral researcher at the same institution and Kiel University, reflects my dedication to advancing healthcare through engineering innovations. Additionally, my time as a CAE Simulation Engineer at Code Product Solutions showcases my ability to apply complex engineering concepts in practical settings.
+
+Throughout my career, I have been deeply involved in scientific research, as evidenced by my numerous publications. These works, focusing on topics such as gait analysis in Parkinson's disease and the development of algorithms for gait event detection, highlight my commitment to leveraging engineering for medical advancements. My approach is characterized by a unique blend of technical engineering skills and a deep understanding of biomedical applications, positioning me at the forefront of innovation in medical technology.
+
+## Experience
+
+- **University Hospital Schleswig-Holstein** | Kiel, Germany<br />
+  Postdoctoral Researcher (Wissenschaftlicher Mitarbeiter) | 07/2023–Present<br />
+  Engaged in advanced research projects, contributing to the development of innovative medical practices.
+
+- **University Hospital Schleswig-Holstein** | Kiel, Germany<br />
+  Doctoral Researcher (Wissenschaftlicher Mitarbeiter) | 02/2021–06/2023<br />
+  Conducted doctoral-level research, focusing on groundbreaking studies in the field of medical science.
+
+- **Kiel University** | Kiel, Germany<br />
+  Doctoral Researcher (Wissenschaftlicher Mitarbeiter) | 12/2019–02/2021<br />
+  Pursued doctoral studies, contributing to academic research and knowledge expansion in chosen field.
+
+- **Code Product Solutions** | Eindhoven, The Netherlands<br />
+  CAE Simulation Engineer | 09/2015–06/2018<br />
+  Specialized in CAE simulation, providing technical solutions and engineering expertise for diverse projects.
+
+  ## Journal activities
+
+
+- **Journal of NeuroEngineering and Rehabilitation** <a href="https://jneuroengrehab.biomedcentral.com/" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br />
+  Reviewer | 2020–Current
+- **Sensors** <a href="https://www.mdpi.com/journal/sensors" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br />
+  Reviewer | 2018–Current
 
 ## Education
 
-- [University of Kiel]{.fw-bold} | Kiel, Schleswig-Holstein, Germany<br />
+- **University of Kiel** | Kiel, Schleswig-Holstein, Germany<br />
   PhD Student (Electrical and Information Engineering), 2019–2023
 
-- [Eindhoven University of Technology]{.fw-bold} | Eindhoven, The Netherlands<br />
+- **Eindhoven University of Technology** | Eindhoven, The Netherlands<br />
   MSc in Biomedical Engineering | 2012–2015
 
-- [Eindhoven University of Technology]{.fw-bold} | Eindhoven, The Netherlands<br />
+- **Eindhoven University of Technology** | Eindhoven, The Netherlands<br />
   BSc in Biomedical Engineering | 2008–2012

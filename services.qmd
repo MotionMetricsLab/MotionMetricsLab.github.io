@@ -1,6 +1,6 @@
 ---
 pagetitle: "Services"
-toc: true
+toc: false
 ---
 
 ## Services

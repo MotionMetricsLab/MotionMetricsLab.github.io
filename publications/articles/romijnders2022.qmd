@@ -1,0 +1,17 @@
+---
+title: "A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts"
+type: "article"
+author: "Robbin Romijnders, Elke Warmerdam, Clint Hansen, Gerhard Schmidt, Walter Maetzler"
+year: "2022"
+publication: "Sensors"
+doi: "https://doi.org/10.3390/s22103859"
+toc: false
+---
+
+## Citation (APA 7)
+
+> Romijnders R, Warmerdam E, Hansen C, Schmidt G, Maetzler W. A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts. Sensors. 2022; 22(10):3859. https://doi.org/10.3390/s22103859
+
+## Abstract
+
+Many algorithms use 3D accelerometer and/or gyroscope data from inertial measurement unit (IMU) sensors to detect gait events (i.e., initial and final foot contact). However, these algorithms often require knowledge about sensor orientation and use empirically derived thresholds. As alignment cannot always be controlled for in ambulatory assessments, methods are needed that require little knowledge on sensor location and orientation, e.g., a convolutional neural network-based deep learning model. Therefore, 157 participants from healthy and neurologically diseased cohorts walked 5 m distances at slow, preferred, and fast walking speed, while data were collected from IMUs on the left and right ankle and shank. Gait events were detected and stride parameters were extracted using a deep learning model and an optoelectronic motion capture (OMC) system for reference. The deep learning model consisted of convolutional layers using dilated convolutions, followed by two independent fully connected layers to predict whether a time step corresponded to the event of initial contact (IC) or final contact (FC), respectively. Results showed a high detection rate for both initial and final contacts across sensor locations (recall ≥92% , precision ≥97% ). Time agreement was excellent as witnessed from the median time error (0.005 s) and corresponding inter-quartile range (0.020 s). The extracted stride-specific parameters were in good agreement with parameters derived from the OMC system (maximum mean difference 0.003 s and corresponding maximum limits of agreement (−0.049 s, 0.051 s) for a 95% confidence level). Thus, the deep learning approach was considered a valid approach for detecting gait events and extracting stride-specific parameters with little knowledge on exact IMU location and orientation in conditions with and without walking pathologies due to neurological diseases.

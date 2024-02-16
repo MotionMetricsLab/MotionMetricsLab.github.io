@@ -1,0 +1,17 @@
+---
+title: "Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases"
+type: "article"
+author: "Clint Hansen, Christian Ortlieb, Robbin Romijnders, Elke Warmerdam, Julius Welzel, Johanna Geritz, Walter Maetzler"
+year: "2022"
+publication: "Sensors"
+doi: "https://doi.org/10.3390/s22062304"
+toc: false
+---
+
+## Citation (APA 7)
+
+> Hansen C, Ortlieb C, Romijnders R, Warmerdam E, Welzel J, Geritz J, Maetzler W. Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases. Sensors. 2022; 22(6):2304. https://doi.org/10.3390/s22062304
+
+## Abstract
+
+Evaluating gait is part of every neurological movement disorder assessment. Generally, the physician assesses the patient based on their experience, but nowadays inertial measurement units (IMUs) are also often integrated in the assessment. Instrumented gait analysis has a longstanding tradition and temporal parameters are used to compare patient groups or trace disease progression over time. However, the day-to-day variability needs to be considered especially in specific patient cohorts. The aim of the study was to examine day-to-day variability of temporal gait parameters of two experimental conditions in a cohort of neurogeriatric patients using data extracted from a lower back-worn IMU. We recruited 49 participants (24 women (age: 78 years ± 6 years, BMI = 25.1 kg/m2 and 25 men (age: 77 years ± 6 years, BMI = 26.5 kg/m2)) from the neurogeriatric ward. Two gait distances (4 m and 20 m) were performed during the first session and repeated the following day. To evaluate reliability, the Intraclass Correlation Coefficient (ICC2,k) and minimal detectable change (MDC) were calculated for the number of steps, step time, stride time, stance time, swing time, double limb support time, double limb support time variability, stride time variability and stride time asymmetry. The temporal gait parameters showed poor to moderate reliability with mean ICC and mean MDC95% values of 0.57 ± 0.18 and 52% ± 53%, respectively. Overall, only four out of the nine computed temporal gait parameters showed high relative reliability and good absolute reliability values. The reliability increased with walking distance. When only investigating steady-state walking during the 20 m walking condition, the relative and absolute reliability improved again. The most reliable parameters were swing time, stride time, step time and stance time. Study results demonstrate that reliability is an important factor to consider when working with IMU derived gait parameters in specific patient cohorts. This advocates for a careful parameter selection as not all parameters seem to be suitable when assessing gait in neurogeriatric patients.
