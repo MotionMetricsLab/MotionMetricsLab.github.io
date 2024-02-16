@@ -4,7 +4,7 @@
     "href": "publications.html",
     "title": "Motion Metrics",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    Long-term unsupervised mobility assessment in movement disorders\n    Elke Warmerdam and Jeffrey M Hausdorff and Arash Atrsaei and Yuhan Zhou and Anat Mirelman and Kamiar Aminian and Alberto J Espay and Clint Hansen and Luc J W Evers and Andreas Keller and Claudine Lamoth and Andrea Pilotto and Lynn Rochester and Gerhard Schmidt and Bastiaan R Bloem and Walter Maetzler\n    The Lancet Neurology\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Validation of IMU-based gait event detection during curved walking and turning in older adults and Parkinson’s Disease patients\n    Robbin Romijnders, Elke Warmerdam, Clint Hansen, Julius Welzel, Gerhard Schmidt, Walter Maetzler\n     Journal of NeuroEngineering and Rehabilitation\n    (2021)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease\n    Clint Hansen, Alvaro Sanchez-Ferro, Walter Maetzler\n    Journal of Parkinson's disease\n    (2018)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts\n    Robbin Romijnders, Elke Warmerdam, Clint Hansen, Gerhard Schmidt, Walter Maetzler\n    Sensors\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Long-term unsupervised mobility assessment in movement disorders\n    Elke Warmerdam and Jeffrey M Hausdorff and Arash Atrsaei and Yuhan Zhou and Anat Mirelman and Kamiar Aminian and Alberto J Espay and Clint Hansen and Luc J W Evers and Andreas Keller and Claudine Lamoth and Andrea Pilotto and Lynn Rochester and Gerhard Schmidt and Bastiaan R Bloem and Walter Maetzler\n    The Lancet Neurology\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases\n    Clint Hansen, Christian Ortlieb, Robbin Romijnders, Elke Warmerdam, Julius Welzel, Johanna Geritz, Walter Maetzler\n    Sensors\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Validation of IMU-based gait event detection during curved walking and turning in older adults and Parkinson’s Disease patients\n    Robbin Romijnders, Elke Warmerdam, Clint Hansen, Julius Welzel, Gerhard Schmidt, Walter Maetzler\n     Journal of NeuroEngineering and Rehabilitation\n    (2021)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease\n    Clint Hansen, Alvaro Sanchez-Ferro, Walter Maetzler\n    Journal of Parkinson's disease\n    (2018)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/dischargeR01/index.html",
@@ -40,6 +40,27 @@
     "title": "GPSP 2023 Convention",
     "section": "",
     "text": "Kassy and I attended the Great Plains Student Psychology Convention last weekend, hosted at Emporia State University. I gave an invited keynote address on “Reconsidering the Duchenne Smile,” and Kassy presented her first AffCom lab poster on “Adult attachment and the working alliance during brief psychotherapy for depression.” She was also awarded an Outstanding Graduate Poster award. Congratulations, Kassy!"
+  },
+  {
+    "objectID": "publications/articles/hansen2022.html",
+    "href": "publications/articles/hansen2022.html",
+    "title": "Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases",
+    "section": "",
+    "text": "Hansen C, Ortlieb C, Romijnders R, Warmerdam E, Welzel J, Geritz J, Maetzler W. Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases. Sensors. 2022; 22(6):2304. https://doi.org/10.3390/s22062304"
+  },
+  {
+    "objectID": "publications/articles/hansen2022.html#citation-apa-7",
+    "href": "publications/articles/hansen2022.html#citation-apa-7",
+    "title": "Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases",
+    "section": "",
+    "text": "Hansen C, Ortlieb C, Romijnders R, Warmerdam E, Welzel J, Geritz J, Maetzler W. Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases. Sensors. 2022; 22(6):2304. https://doi.org/10.3390/s22062304"
+  },
+  {
+    "objectID": "publications/articles/hansen2022.html#abstract",
+    "href": "publications/articles/hansen2022.html#abstract",
+    "title": "Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases",
+    "section": "Abstract",
+    "text": "Abstract\nEvaluating gait is part of every neurological movement disorder assessment. Generally, the physician assesses the patient based on their experience, but nowadays inertial measurement units (IMUs) are also often integrated in the assessment. Instrumented gait analysis has a longstanding tradition and temporal parameters are used to compare patient groups or trace disease progression over time. However, the day-to-day variability needs to be considered especially in specific patient cohorts. The aim of the study was to examine day-to-day variability of temporal gait parameters of two experimental conditions in a cohort of neurogeriatric patients using data extracted from a lower back-worn IMU. We recruited 49 participants (24 women (age: 78 years ± 6 years, BMI = 25.1 kg/m2 and 25 men (age: 77 years ± 6 years, BMI = 26.5 kg/m2)) from the neurogeriatric ward. Two gait distances (4 m and 20 m) were performed during the first session and repeated the following day. To evaluate reliability, the Intraclass Correlation Coefficient (ICC2,k) and minimal detectable change (MDC) were calculated for the number of steps, step time, stride time, stance time, swing time, double limb support time, double limb support time variability, stride time variability and stride time asymmetry. The temporal gait parameters showed poor to moderate reliability with mean ICC and mean MDC95% values of 0.57 ± 0.18 and 52% ± 53%, respectively. Overall, only four out of the nine computed temporal gait parameters showed high relative reliability and good absolute reliability values. The reliability increased with walking distance. When only investigating steady-state walking during the 20 m walking condition, the relative and absolute reliability improved again. The most reliable parameters were swing time, stride time, step time and stance time. Study results demonstrate that reliability is an important factor to consider when working with IMU derived gait parameters in specific patient cohorts. This advocates for a careful parameter selection as not all parameters seem to be suitable when assessing gait in neurogeriatric patients."
   },
   {
     "objectID": "publications/articles/hansen2018.html",
@@ -112,13 +133,6 @@
     "text": "Education\n\nParis-Sud University | Paris, France PhD in Human Movement Science (Distinction) | 10/2010 - 09/2013\nChristian-Albrechts-University of Kiel | Kiel, Germany Magister Atrium in Sports Science | 10/2004 - 09/2010"
   },
   {
-    "objectID": "people/staff/welzel_julius.html",
-    "href": "people/staff/welzel_julius.html",
-    "title": "Julius Welzel",
-    "section": "",
-    "text": "Home\n    People\n    Julius Welzel"
-  },
-  {
     "objectID": "people/staff/welzel_julius.html#about-me",
     "href": "people/staff/welzel_julius.html#about-me",
     "title": "Julius Welzel",
@@ -147,18 +161,18 @@
     "text": "Education\nHere is the formatted education section in the specified style:\n\nCarl von Ossietzky University | Oldenburg, Germany M.Sc. in Neurocognitive Psychology | 10/2016–05/2019 Thesis: The Effect of Age on Event-related Desynchronization in Visuomotor-Task Motor Imagery (Supervisors: Mareike Daeglau & Stefan Debener)\nJohannes Gutenberg University | Mainz, Germany B.Sc. in Psychology | 10/2012–10/2016 Thesis: The Effect of Mindfulness-Based Stress Reduction on Life Quality of Breast Cancer Patients (Supervisors: Mario Wenzel & Thomas Kubiak)"
   },
   {
-    "objectID": "people/staff/romijnders_robbin.html",
-    "href": "people/staff/romijnders_robbin.html",
+    "objectID": "people/staff/romijnders_robbin.html#about-me",
+    "href": "people/staff/romijnders_robbin.html#about-me",
     "title": "Robbin Romijnders",
-    "section": "",
-    "text": "Home\n    People\n    Robbin Romijnders"
+    "section": "About me",
+    "text": "About me\nI am an electrical and information engineer with a profound interest in the intersection of engineering and biomedical sciences, particularly as they apply to human health and medical technology. My educational journey in biomedical engineering at the Eindhoven University of Technology laid a strong foundation in this interdisciplinary field. This was further enriched by my pursuit of a Ph.D. in Electrical and Information Engineering at Kiel University, where I delved deep into the complexities of integrating engineering principles with biological systems.\nMy research trajectory has been marked by a consistent focus on applying engineering solutions to medical challenges. My work as a postdoctoral researcher at the University Hospital Schleswig-Holstein epitomizes this, where I employ my engineering expertise to contribute to medical research. This role, coupled with my previous experience as a doctoral researcher at the same institution and Kiel University, reflects my dedication to advancing healthcare through engineering innovations. Additionally, my time as a CAE Simulation Engineer at Code Product Solutions showcases my ability to apply complex engineering concepts in practical settings.\nThroughout my career, I have been deeply involved in scientific research, as evidenced by my numerous publications. These works, focusing on topics such as gait analysis in Parkinson’s disease and the development of algorithms for gait event detection, highlight my commitment to leveraging engineering for medical advancements. My approach is characterized by a unique blend of technical engineering skills and a deep understanding of biomedical applications, positioning me at the forefront of innovation in medical technology."
   },
   {
-    "objectID": "people/staff/romijnders_robbin.html#biography",
-    "href": "people/staff/romijnders_robbin.html#biography",
+    "objectID": "people/staff/romijnders_robbin.html#experience",
+    "href": "people/staff/romijnders_robbin.html#experience",
     "title": "Robbin Romijnders",
-    "section": "Biography",
-    "text": "Biography\nTBA"
+    "section": "Experience",
+    "text": "Experience\n\nUniversity Hospital Schleswig-Holstein | Kiel, Germany Postdoctoral Researcher (Wissenschaftlicher Mitarbeiter) | 07/2023–Present Engaged in advanced research projects, contributing to the development of innovative medical practices.\nUniversity Hospital Schleswig-Holstein | Kiel, Germany Doctoral Researcher (Wissenschaftlicher Mitarbeiter) | 02/2021–06/2023 Conducted doctoral-level research, focusing on groundbreaking studies in the field of medical science.\nKiel University | Kiel, Germany Doctoral Researcher (Wissenschaftlicher Mitarbeiter) | 12/2019–02/2021 Pursued doctoral studies, contributing to academic research and knowledge expansion in chosen field.\nCode Product Solutions | Eindhoven, The Netherlands CAE Simulation Engineer | 09/2015–06/2018 Specialized in CAE simulation, providing technical solutions and engineering expertise for diverse projects.\nJournal activities\nJournal of NeuroEngineering and Rehabilitation  Reviewer | 2020–Current\nSensors  Reviewer | 2018–Current"
   },
   {
     "objectID": "people/staff/romijnders_robbin.html#education",
@@ -222,6 +236,27 @@
     "title": "Long-term unsupervised mobility assessment in movement disorders",
     "section": "Abstract",
     "text": "Abstract\nMobile health technologies (wearable, portable, body-fixed sensors, or domestic-integrated devices) that quantify mobility in unsupervised, daily living environments are emerging as complementary clinical assessments. Data collected in these ecologically valid, patient-relevant settings can overcome limitations of conventional clinical assessments, as they capture fluctuating and rare events. These data could support clinical decision making and could also serve as outcomes in clinical trials. However, studies that directly compared assessments made in unsupervised and supervised (eg, in the laboratory or hospital) settings point to large disparities, even in the same parameters of mobility. These differences appear to be affected by psychological, physiological, cognitive, environmental, and technical factors, and by the types of mobilities and diagnoses assessed. To facilitate the successful adaptation of the unsupervised assessment of mobility into clinical practice and clinical trials, clinicians and researchers should consider these disparities and the multiple factors that contribute to them."
+  },
+  {
+    "objectID": "publications/articles/romijnders2022.html",
+    "href": "publications/articles/romijnders2022.html",
+    "title": "A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts",
+    "section": "",
+    "text": "Romijnders R, Warmerdam E, Hansen C, Schmidt G, Maetzler W. A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts. Sensors. 2022; 22(10):3859. https://doi.org/10.3390/s22103859"
+  },
+  {
+    "objectID": "publications/articles/romijnders2022.html#citation-apa-7",
+    "href": "publications/articles/romijnders2022.html#citation-apa-7",
+    "title": "A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts",
+    "section": "",
+    "text": "Romijnders R, Warmerdam E, Hansen C, Schmidt G, Maetzler W. A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts. Sensors. 2022; 22(10):3859. https://doi.org/10.3390/s22103859"
+  },
+  {
+    "objectID": "publications/articles/romijnders2022.html#abstract",
+    "href": "publications/articles/romijnders2022.html#abstract",
+    "title": "A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts",
+    "section": "Abstract",
+    "text": "Abstract\nMany algorithms use 3D accelerometer and/or gyroscope data from inertial measurement unit (IMU) sensors to detect gait events (i.e., initial and final foot contact). However, these algorithms often require knowledge about sensor orientation and use empirically derived thresholds. As alignment cannot always be controlled for in ambulatory assessments, methods are needed that require little knowledge on sensor location and orientation, e.g., a convolutional neural network-based deep learning model. Therefore, 157 participants from healthy and neurologically diseased cohorts walked 5 m distances at slow, preferred, and fast walking speed, while data were collected from IMUs on the left and right ankle and shank. Gait events were detected and stride parameters were extracted using a deep learning model and an optoelectronic motion capture (OMC) system for reference. The deep learning model consisted of convolutional layers using dilated convolutions, followed by two independent fully connected layers to predict whether a time step corresponded to the event of initial contact (IC) or final contact (FC), respectively. Results showed a high detection rate for both initial and final contacts across sensor locations (recall ≥92% , precision ≥97% ). Time agreement was excellent as witnessed from the median time error (0.005 s) and corresponding inter-quartile range (0.020 s). The extracted stride-specific parameters were in good agreement with parameters derived from the OMC system (maximum mean difference 0.003 s and corresponding maximum limits of agreement (−0.049 s, 0.051 s) for a 95% confidence level). Thus, the deep learning approach was considered a valid approach for detecting gait events and extracting stride-specific parameters with little knowledge on exact IMU location and orientation in conditions with and without walking pathologies due to neurological diseases."
   },
   {
     "objectID": "posts/google2022/index.html",
