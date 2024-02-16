@@ -1,17 +1,80 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
+    "objectID": "publications.html",
+    "href": "publications.html",
     "title": "Motion Metrics",
     "section": "",
-    "text": "Motion Metrics is located in Kiel.\nIf you are interested in working with us, please drop us a line via mail."
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    Long-term unsupervised mobility assessment in movement disorders\n    Elke Warmerdam and Jeffrey M Hausdorff and Arash Atrsaei and Yuhan Zhou and Anat Mirelman and Kamiar Aminian and Alberto J Espay and Clint Hansen and Luc J W Evers and Andreas Keller and Claudine Lamoth and Andrea Pilotto and Lynn Rochester and Gerhard Schmidt and Bastiaan R Bloem and Walter Maetzler\n    The Lancet Neurology\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Validation of IMU-based gait event detection during curved walking and turning in older adults and Parkinson’s Disease patients\n    Robbin Romijnders, Elke Warmerdam, Clint Hansen, Julius Welzel, Gerhard Schmidt, Walter Maetzler\n     Journal of NeuroEngineering and Rehabilitation\n    (2021)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease\n    Clint Hansen, Alvaro Sanchez-Ferro, Walter Maetzler\n    Journal of Parkinson's disease\n    (2018)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "contact.html#visit-us",
-    "href": "contact.html#visit-us",
+    "objectID": "posts/dischargeR01/index.html",
+    "href": "posts/dischargeR01/index.html",
+    "title": "NIMH R01 Grant",
+    "section": "",
+    "text": "I am very pleased to announce that we have been awarded an R01 (Research Project) Grant from the National Institute of Mental Health (R01-MH125740) to study the use of multimodal information and machine learning to estimate the discharge readiness of psychiatric inpatients with severe mental illness. The project period is from 04/2021 through 02/2025 with a total funding of $1,160,953."
+  },
+  {
+    "objectID": "posts/dischargeR01/index.html#project-team",
+    "href": "posts/dischargeR01/index.html#project-team",
+    "title": "NIMH R01 Grant",
+    "section": "Project Team",
+    "text": "Project Team\n\nMPI: Justin Baker, McLean Hospital, Harvard Medical School\nMPI: Louis-Philippe Morency, Carnegie Mellon University\nCo-I: Jeffrey Girard, University of Kansas"
+  },
+  {
+    "objectID": "posts/dischargeR01/index.html#project-summary",
+    "href": "posts/dischargeR01/index.html#project-summary",
+    "title": "NIMH R01 Grant",
+    "section": "Project Summary",
+    "text": "Project Summary\nWhich psychiatric symptoms and behaviors are the most important to assess and manage during critical points in psychiatric healthcare, such as the time leading up to hospital discharge? At present, psychiatry lacks objective tests that could inform this and other clinically challenging–and potentially costly–decisions. Establishing valid objective markers of psychiatric disease processes is especially challenging compared with the development of biomarkers in other fields. One key challenge is lack of available data from psychiatrically ill patients during key periods in their care trajectory, which the present project seeks to address. A second major challenge, also addressed as a core feature in this project, is the complex, context-dependence of human behavioral expression, which greatly complicates efforts to establish robust, objective measures that reflect underlying mental health disease processes. This project will address both barriers, introducing a new computational framework, named Context-Adaptive Multimodal Informatics, to identify and evaluate behavioral biomarkers related to discharge-readiness and symptoms in severe mental illness. The project aims to address five fundamental research challenges: (1) Acquire a multimodal psychiatric discharge-planning dataset of 400 inpatients with severe mental illness; (2) Create self-aware linear and neural models to identify multimodal behavioral biomarkers; (3) Develop context-sensitive linear and neural models to contextualize behavioral biomarkers and quantify the influence of context on behavior; (4) Build a new adaptive assessment planning framework which creates a personalized patient analysis to rank contexts and modalities for the next assessment session; (5) Assess the trustworthiness and generalizability of our measurements, models, and insights. This research will improve basic understanding of social context and behavioral biomarkers, build objective measures for mental health assessment, and more broadly, pave the way for a restructured care-delivery system in which resources are allocated intelligently to ensure assessments are informative with respect to desired clinical objectives."
+  },
+  {
+    "objectID": "posts/dischargeR01/index.html#public-health-relevance",
+    "href": "posts/dischargeR01/index.html#public-health-relevance",
+    "title": "NIMH R01 Grant",
+    "section": "Public Health Relevance",
+    "text": "Public Health Relevance\nCharting mental illness trajectories to determine when, where, and how to intervene is a key objective of the NIMH mission to transform the understanding and treatment of mental illness. This project will: (1) deepen our understanding of the trajectory leading to hospitalization discharge with knowledge about behavioral biomarkers and their relationship to symptoms and discharge-readiness; (2) contribute to the knowledge on how social context impacts patient’s behaviors since some symptoms or predictive biomarkers may only be seen in a specific context such as social or solitary interactions; and (3) contribute a credible, objective framework for behavioral measurement by defining interpretable biomarkers and latent factors for symptoms and discharge assessment. The project will also enable a judicious use of remote sensing and non-direct clinical encounters (e.g., telemedicine), which are increasingly viewed as essential capabilities in the medical fields to reduce costs while maintaining or elevating care standards."
+  },
+  {
+    "objectID": "posts/gpsp2023/index.html",
+    "href": "posts/gpsp2023/index.html",
+    "title": "GPSP 2023 Convention",
+    "section": "",
+    "text": "Kassy and I attended the Great Plains Student Psychology Convention last weekend, hosted at Emporia State University. I gave an invited keynote address on “Reconsidering the Duchenne Smile,” and Kassy presented her first AffCom lab poster on “Adult attachment and the working alliance during brief psychotherapy for depression.” She was also awarded an Outstanding Graduate Poster award. Congratulations, Kassy!"
+  },
+  {
+    "objectID": "publications/articles/hansen2018.html",
+    "href": "publications/articles/hansen2018.html",
+    "title": "How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease",
+    "section": "",
+    "text": "Hansen, C., Sanchez-Ferro, A., & Maetzler, W. (2018). How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease. In P. Brundin, J. W. Langston, & B. R. Bloem (Eds.), Journal of Parkinson’s Disease (Vol. 8, Issue s1, pp. S41–S45). IOS Press. https://doi.org/10.3233/jpd-181498."
+  },
+  {
+    "objectID": "publications/articles/hansen2018.html#citation-apa-7",
+    "href": "publications/articles/hansen2018.html#citation-apa-7",
+    "title": "How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease",
+    "section": "",
+    "text": "Hansen, C., Sanchez-Ferro, A., & Maetzler, W. (2018). How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease. In P. Brundin, J. W. Langston, & B. R. Bloem (Eds.), Journal of Parkinson’s Disease (Vol. 8, Issue s1, pp. S41–S45). IOS Press. https://doi.org/10.3233/jpd-181498."
+  },
+  {
+    "objectID": "publications/articles/hansen2018.html#abstract",
+    "href": "publications/articles/hansen2018.html#abstract",
+    "title": "How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease",
+    "section": "Abstract",
+    "text": "Abstract\nCare of patients with Parkinson’s disease (PD) will dramatically change in the upcoming years. The nationwide implementations of the patient-controlled electronic health record (EHR) and the technology-based home monitoring system will most probably be the cornerstones of this revolution. We speculate that, within the course of the next decade, EHRs will lead to a substantial empowerment of patients, and monitoring of motor and non-motor manifestations of PD will shift from the clinic to the home. As far as this can be foreseen, small, partly clothing-embedded and implanted sensor systems allowing passive (i.e., non-obtrusive) data collection will dominate the market. They will interoperate with the personal EHR and other potentially health-related electronic databases such as clinical warehouses and population health analytics platforms. Analysis software will be mainly built on artificial intelligence, and presentation of data will be intuitive. This scenario will eventually help both the patient and the medical professional by providing higher amounts of quality information about daily-relevant effects of disease and treatment, eventually allowing for a better and more personalized care."
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
     "title": "Motion Metrics",
     "section": "",
-    "text": "Motion Metrics is located in Kiel.\nIf you are interested in working with us, please drop us a line via mail."
+    "text": "Our clinical movement analysis services are designed to provide healthcare professionals with the information they need to diagnose, monitor, and treat a wide range of movement disorders. We use state-of-the-art equipment and cutting-edge analysis techniques to provide precise and accurate data on gait, posture, balance, and more. Our team of experts includes biomechanists, engineers, neuroscientists and other specialists, who work together to provide comprehensive assessments and customized treatment plans for each patient.\n\n\n\nOur sports performance analysis services are designed to help athletes of all levels achieve their full potential. Whether you are a professional athlete looking to improve your performance on the field or a weekend warrior looking to optimize your training regimen, we can help. We use the latest technology and analysis techniques to provide precise and accurate data on factors such as running gait, jump mechanics, and more. Our team of experts works closely with each athlete to help them achieve their goals."
+  },
+  {
+    "objectID": "services.html#services",
+    "href": "services.html#services",
+    "title": "Motion Metrics",
+    "section": "",
+    "text": "Our clinical movement analysis services are designed to provide healthcare professionals with the information they need to diagnose, monitor, and treat a wide range of movement disorders. We use state-of-the-art equipment and cutting-edge analysis techniques to provide precise and accurate data on gait, posture, balance, and more. Our team of experts includes biomechanists, engineers, neuroscientists and other specialists, who work together to provide comprehensive assessments and customized treatment plans for each patient.\n\n\n\nOur sports performance analysis services are designed to help athletes of all levels achieve their full potential. Whether you are a professional athlete looking to improve your performance on the field or a weekend warrior looking to optimize your training regimen, we can help. We use the latest technology and analysis techniques to provide precise and accurate data on factors such as running gait, jump mechanics, and more. Our team of experts works closely with each athlete to help them achieve their goals."
   },
   {
     "objectID": "index.html",
@@ -19,13 +82,6 @@
     "title": "Motion Metrics",
     "section": "",
     "text": "At Motion Metric, we believe that precise and accurate movement analysis is the key to unlocking improved outcomes for patients and athletes alike. Our mission is to provide the highest quality movement analysis services, with a focus on gait analysis and sports performance analysis, to help our clients achieve their goals and optimize their performance.\n\n\nOur Goals\nAt Motion Metric, our goal is to be the leading provider of movement analysis services. We strive to deliver the highest quality services to our clients, with a focus on accuracy, precision, and customization. We are committed to staying at the forefront of our field, and we invest in ongoing research and development to ensure that we are always using the latest techniques and technologies to deliver the best possible outcomes for our clients."
-  },
-  {
-    "objectID": "people/staff/hansen_clint.html",
-    "href": "people/staff/hansen_clint.html",
-    "title": "Clint Hansen",
-    "section": "",
-    "text": "Home\n    People\n    Clint Hansen"
   },
   {
     "objectID": "people/staff/hansen_clint.html#about-me",
@@ -54,27 +110,6 @@
     "title": "Clint Hansen",
     "section": "Education",
     "text": "Education\n\nParis-Sud University | Paris, France PhD in Human Movement Science (Distinction) | 10/2010 - 09/2013\nChristian-Albrechts-University of Kiel | Kiel, Germany Magister Atrium in Sports Science | 10/2004 - 09/2010"
-  },
-  {
-    "objectID": "people/staff/romijnders_robbin.html",
-    "href": "people/staff/romijnders_robbin.html",
-    "title": "Robbin Romijnders",
-    "section": "",
-    "text": "Home\n    People\n    Robbin Romijnders"
-  },
-  {
-    "objectID": "people/staff/romijnders_robbin.html#biography",
-    "href": "people/staff/romijnders_robbin.html#biography",
-    "title": "Robbin Romijnders",
-    "section": "Biography",
-    "text": "Biography\nTBA"
-  },
-  {
-    "objectID": "people/staff/romijnders_robbin.html#education",
-    "href": "people/staff/romijnders_robbin.html#education",
-    "title": "Robbin Romijnders",
-    "section": "Education",
-    "text": "Education\n\nUniversity of Kiel | Kiel, Schleswig-Holstein, Germany PhD Student (Electrical and Information Engineering), 2019–2023\nEindhoven University of Technology | Eindhoven, The Netherlands MSc in Biomedical Engineering | 2012–2015\nEindhoven University of Technology | Eindhoven, The Netherlands BSc in Biomedical Engineering | 2008–2012"
   },
   {
     "objectID": "people/staff/welzel_julius.html",
@@ -112,81 +147,39 @@
     "text": "Education\nHere is the formatted education section in the specified style:\n\nCarl von Ossietzky University | Oldenburg, Germany M.Sc. in Neurocognitive Psychology | 10/2016–05/2019 Thesis: The Effect of Age on Event-related Desynchronization in Visuomotor-Task Motor Imagery (Supervisors: Mareike Daeglau & Stefan Debener)\nJohannes Gutenberg University | Mainz, Germany B.Sc. in Psychology | 10/2012–10/2016 Thesis: The Effect of Mindfulness-Based Stress Reduction on Life Quality of Breast Cancer Patients (Supervisors: Mario Wenzel & Thomas Kubiak)"
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
+    "objectID": "people/staff/romijnders_robbin.html",
+    "href": "people/staff/romijnders_robbin.html",
+    "title": "Robbin Romijnders",
+    "section": "",
+    "text": "Home\n    People\n    Robbin Romijnders"
+  },
+  {
+    "objectID": "people/staff/romijnders_robbin.html#biography",
+    "href": "people/staff/romijnders_robbin.html#biography",
+    "title": "Robbin Romijnders",
+    "section": "Biography",
+    "text": "Biography\nTBA"
+  },
+  {
+    "objectID": "people/staff/romijnders_robbin.html#education",
+    "href": "people/staff/romijnders_robbin.html#education",
+    "title": "Robbin Romijnders",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Kiel | Kiel, Schleswig-Holstein, Germany PhD Student (Electrical and Information Engineering), 2019–2023\nEindhoven University of Technology | Eindhoven, The Netherlands MSc in Biomedical Engineering | 2012–2015\nEindhoven University of Technology | Eindhoven, The Netherlands BSc in Biomedical Engineering | 2008–2012"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
     "title": "Motion Metrics",
     "section": "",
-    "text": "CEO\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlgorithm Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Wizard\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Motion Metrics is located in Kiel.\nIf you are interested in working with us, please drop us a line via mail."
   },
   {
-    "objectID": "people.html#research-staff",
-    "href": "people.html#research-staff",
+    "objectID": "contact.html#visit-us",
+    "href": "contact.html#visit-us",
     "title": "Motion Metrics",
     "section": "",
-    "text": "CEO\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlgorithm Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Wizard\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/dischargeR01/index.html",
-    "href": "posts/dischargeR01/index.html",
-    "title": "NIMH R01 Grant",
-    "section": "",
-    "text": "I am very pleased to announce that we have been awarded an R01 (Research Project) Grant from the National Institute of Mental Health (R01-MH125740) to study the use of multimodal information and machine learning to estimate the discharge readiness of psychiatric inpatients with severe mental illness. The project period is from 04/2021 through 02/2025 with a total funding of $1,160,953."
-  },
-  {
-    "objectID": "posts/dischargeR01/index.html#project-team",
-    "href": "posts/dischargeR01/index.html#project-team",
-    "title": "NIMH R01 Grant",
-    "section": "Project Team",
-    "text": "Project Team\n\nMPI: Justin Baker, McLean Hospital, Harvard Medical School\nMPI: Louis-Philippe Morency, Carnegie Mellon University\nCo-I: Jeffrey Girard, University of Kansas"
-  },
-  {
-    "objectID": "posts/dischargeR01/index.html#project-summary",
-    "href": "posts/dischargeR01/index.html#project-summary",
-    "title": "NIMH R01 Grant",
-    "section": "Project Summary",
-    "text": "Project Summary\nWhich psychiatric symptoms and behaviors are the most important to assess and manage during critical points in psychiatric healthcare, such as the time leading up to hospital discharge? At present, psychiatry lacks objective tests that could inform this and other clinically challenging–and potentially costly–decisions. Establishing valid objective markers of psychiatric disease processes is especially challenging compared with the development of biomarkers in other fields. One key challenge is lack of available data from psychiatrically ill patients during key periods in their care trajectory, which the present project seeks to address. A second major challenge, also addressed as a core feature in this project, is the complex, context-dependence of human behavioral expression, which greatly complicates efforts to establish robust, objective measures that reflect underlying mental health disease processes. This project will address both barriers, introducing a new computational framework, named Context-Adaptive Multimodal Informatics, to identify and evaluate behavioral biomarkers related to discharge-readiness and symptoms in severe mental illness. The project aims to address five fundamental research challenges: (1) Acquire a multimodal psychiatric discharge-planning dataset of 400 inpatients with severe mental illness; (2) Create self-aware linear and neural models to identify multimodal behavioral biomarkers; (3) Develop context-sensitive linear and neural models to contextualize behavioral biomarkers and quantify the influence of context on behavior; (4) Build a new adaptive assessment planning framework which creates a personalized patient analysis to rank contexts and modalities for the next assessment session; (5) Assess the trustworthiness and generalizability of our measurements, models, and insights. This research will improve basic understanding of social context and behavioral biomarkers, build objective measures for mental health assessment, and more broadly, pave the way for a restructured care-delivery system in which resources are allocated intelligently to ensure assessments are informative with respect to desired clinical objectives."
-  },
-  {
-    "objectID": "posts/dischargeR01/index.html#public-health-relevance",
-    "href": "posts/dischargeR01/index.html#public-health-relevance",
-    "title": "NIMH R01 Grant",
-    "section": "Public Health Relevance",
-    "text": "Public Health Relevance\nCharting mental illness trajectories to determine when, where, and how to intervene is a key objective of the NIMH mission to transform the understanding and treatment of mental illness. This project will: (1) deepen our understanding of the trajectory leading to hospitalization discharge with knowledge about behavioral biomarkers and their relationship to symptoms and discharge-readiness; (2) contribute to the knowledge on how social context impacts patient’s behaviors since some symptoms or predictive biomarkers may only be seen in a specific context such as social or solitary interactions; and (3) contribute a credible, objective framework for behavioral measurement by defining interpretable biomarkers and latent factors for symptoms and discharge assessment. The project will also enable a judicious use of remote sensing and non-direct clinical encounters (e.g., telemedicine), which are increasingly viewed as essential capabilities in the medical fields to reduce costs while maintaining or elevating care standards."
-  },
-  {
-    "objectID": "posts/google2022/index.html",
-    "href": "posts/google2022/index.html",
-    "title": "Google Research Grant",
-    "section": "",
-    "text": "I am very pleased to announce that the AffCom Lab has been granted a $30,000 gift from Google LLC to support our work on novel, scalable mental health screening procedures! Specifically, we plan to use these funds to further integrate computer vision, natural language processing, ambulatory assessment, and passive sensing into new screening procedures for affective disorders. This is also an opportunity to deepen the lab’s collaborative ties with industry leaders in digital mental health. Stay tuned for more information in the next few months about a new project we plan to launch in this space!"
-  },
-  {
-    "objectID": "posts/gpsp2023/index.html",
-    "href": "posts/gpsp2023/index.html",
-    "title": "GPSP 2023 Convention",
-    "section": "",
-    "text": "Kassy and I attended the Great Plains Student Psychology Convention last weekend, hosted at Emporia State University. I gave an invited keynote address on “Reconsidering the Duchenne Smile,” and Kassy presented her first AffCom lab poster on “Adult attachment and the working alliance during brief psychotherapy for depression.” She was also awarded an Outstanding Graduate Poster award. Congratulations, Kassy!"
-  },
-  {
-    "objectID": "publications/articles/hansen2018.html",
-    "href": "publications/articles/hansen2018.html",
-    "title": "How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease",
-    "section": "",
-    "text": "Hansen, C., Sanchez-Ferro, A., & Maetzler, W. (2018). How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease. In P. Brundin, J. W. Langston, & B. R. Bloem (Eds.), Journal of Parkinson’s Disease (Vol. 8, Issue s1, pp. S41–S45). IOS Press. https://doi.org/10.3233/jpd-181498."
-  },
-  {
-    "objectID": "publications/articles/hansen2018.html#citation-apa-7",
-    "href": "publications/articles/hansen2018.html#citation-apa-7",
-    "title": "How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease",
-    "section": "",
-    "text": "Hansen, C., Sanchez-Ferro, A., & Maetzler, W. (2018). How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease. In P. Brundin, J. W. Langston, & B. R. Bloem (Eds.), Journal of Parkinson’s Disease (Vol. 8, Issue s1, pp. S41–S45). IOS Press. https://doi.org/10.3233/jpd-181498."
-  },
-  {
-    "objectID": "publications/articles/hansen2018.html#abstract",
-    "href": "publications/articles/hansen2018.html#abstract",
-    "title": "How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease",
-    "section": "Abstract",
-    "text": "Abstract\nCare of patients with Parkinson’s disease (PD) will dramatically change in the upcoming years. The nationwide implementations of the patient-controlled electronic health record (EHR) and the technology-based home monitoring system will most probably be the cornerstones of this revolution. We speculate that, within the course of the next decade, EHRs will lead to a substantial empowerment of patients, and monitoring of motor and non-motor manifestations of PD will shift from the clinic to the home. As far as this can be foreseen, small, partly clothing-embedded and implanted sensor systems allowing passive (i.e., non-obtrusive) data collection will dominate the market. They will interoperate with the personal EHR and other potentially health-related electronic databases such as clinical warehouses and population health analytics platforms. Analysis software will be mainly built on artificial intelligence, and presentation of data will be intuitive. This scenario will eventually help both the patient and the medical professional by providing higher amounts of quality information about daily-relevant effects of disease and treatment, eventually allowing for a better and more personalized care."
+    "text": "Motion Metrics is located in Kiel.\nIf you are interested in working with us, please drop us a line via mail."
   },
   {
     "objectID": "publications/articles/romijnders2021.html",
@@ -231,24 +224,24 @@
     "text": "Abstract\nMobile health technologies (wearable, portable, body-fixed sensors, or domestic-integrated devices) that quantify mobility in unsupervised, daily living environments are emerging as complementary clinical assessments. Data collected in these ecologically valid, patient-relevant settings can overcome limitations of conventional clinical assessments, as they capture fluctuating and rare events. These data could support clinical decision making and could also serve as outcomes in clinical trials. However, studies that directly compared assessments made in unsupervised and supervised (eg, in the laboratory or hospital) settings point to large disparities, even in the same parameters of mobility. These differences appear to be affected by psychological, physiological, cognitive, environmental, and technical factors, and by the types of mobilities and diagnoses assessed. To facilitate the successful adaptation of the unsupervised assessment of mobility into clinical practice and clinical trials, clinicians and researchers should consider these disparities and the multiple factors that contribute to them."
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Motion Metrics",
+    "objectID": "posts/google2022/index.html",
+    "href": "posts/google2022/index.html",
+    "title": "Google Research Grant",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n  \n    Long-term unsupervised mobility assessment in movement disorders\n    Elke Warmerdam and Jeffrey M Hausdorff and Arash Atrsaei and Yuhan Zhou and Anat Mirelman and Kamiar Aminian and Alberto J Espay and Clint Hansen and Luc J W Evers and Andreas Keller and Claudine Lamoth and Andrea Pilotto and Lynn Rochester and Gerhard Schmidt and Bastiaan R Bloem and Walter Maetzler\n    The Lancet Neurology\n    (2022)\n    \n      Details\n    \n    \n      DOI\n    \n  \n  \n    Validation of IMU-based gait event detection during curved walking and turning in older adults and Parkinson’s Disease patients\n    Robbin Romijnders, Elke Warmerdam, Clint Hansen, Julius Welzel, Gerhard Schmidt, Walter Maetzler\n     Journal of NeuroEngineering and Rehabilitation\n    (2021)\n    \n      Details\n    \n    \n      DOI\n    \n  \n  \n    How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease\n    Clint Hansen, Alvaro Sanchez-Ferro, Walter Maetzler\n    Journal of Parkinson's disease\n    (2018)\n    \n      Details\n    \n    \n      DOI\n    \n  \n\n\nNo matching items"
+    "text": "I am very pleased to announce that the AffCom Lab has been granted a $30,000 gift from Google LLC to support our work on novel, scalable mental health screening procedures! Specifically, we plan to use these funds to further integrate computer vision, natural language processing, ambulatory assessment, and passive sensing into new screening procedures for affective disorders. This is also an opportunity to deepen the lab’s collaborative ties with industry leaders in digital mental health. Stay tuned for more information in the next few months about a new project we plan to launch in this space!"
   },
   {
-    "objectID": "services.html",
-    "href": "services.html",
+    "objectID": "people.html",
+    "href": "people.html",
     "title": "Motion Metrics",
     "section": "",
-    "text": "Our clinical movement analysis services are designed to provide healthcare professionals with the information they need to diagnose, monitor, and treat a wide range of movement disorders. We use state-of-the-art equipment and cutting-edge analysis techniques to provide precise and accurate data on gait, posture, balance, and more. Our team of experts includes biomechanists, engineers, neuroscientists and other specialists, who work together to provide comprehensive assessments and customized treatment plans for each patient.\n\n\n\nOur sports performance analysis services are designed to help athletes of all levels achieve their full potential. Whether you are a professional athlete looking to improve your performance on the field or a weekend warrior looking to optimize your training regimen, we can help. We use the latest technology and analysis techniques to provide precise and accurate data on factors such as running gait, jump mechanics, and more. Our team of experts works closely with each athlete to help them achieve their goals."
+    "text": "CEO\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlgorithm Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Wizard\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "services.html#services",
-    "href": "services.html#services",
+    "objectID": "people.html#research-staff",
+    "href": "people.html#research-staff",
     "title": "Motion Metrics",
     "section": "",
-    "text": "Our clinical movement analysis services are designed to provide healthcare professionals with the information they need to diagnose, monitor, and treat a wide range of movement disorders. We use state-of-the-art equipment and cutting-edge analysis techniques to provide precise and accurate data on gait, posture, balance, and more. Our team of experts includes biomechanists, engineers, neuroscientists and other specialists, who work together to provide comprehensive assessments and customized treatment plans for each patient.\n\n\n\nOur sports performance analysis services are designed to help athletes of all levels achieve their full potential. Whether you are a professional athlete looking to improve your performance on the field or a weekend warrior looking to optimize your training regimen, we can help. We use the latest technology and analysis techniques to provide precise and accurate data on factors such as running gait, jump mechanics, and more. Our team of experts works closely with each athlete to help them achieve their goals."
+    "text": "CEO\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlgorithm Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Wizard\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

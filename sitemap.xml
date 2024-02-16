@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://MotionMetricsLab.github.io/contact.html</loc>
-    <lastmod>2024-02-16T08:48:57.031Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MotionMetricsLab.github.io/index.html</loc>
-    <lastmod>2024-02-16T08:48:57.665Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MotionMetricsLab.github.io/people/staff/hansen_clint.html</loc>
-    <lastmod>2024-02-16T08:48:58.300Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MotionMetricsLab.github.io/people/staff/romijnders_robbin.html</loc>
-    <lastmod>2024-02-16T08:48:58.891Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MotionMetricsLab.github.io/people/staff/welzel_julius.html</loc>
-    <lastmod>2024-02-16T08:48:59.543Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MotionMetricsLab.github.io/people.html</loc>
-    <lastmod>2024-02-16T08:49:00.239Z</lastmod>
+    <loc>https://MotionMetricsLab.github.io/publications.html</loc>
+    <lastmod>2024-02-16T09:09:06.726Z</lastmod>
   </url>
   <url>
     <loc>https://MotionMetricsLab.github.io/posts/dischargeR01/index.html</loc>
-    <lastmod>2024-02-16T08:49:00.903Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MotionMetricsLab.github.io/posts/google2022/index.html</loc>
-    <lastmod>2024-02-16T08:49:01.522Z</lastmod>
+    <lastmod>2024-02-16T09:09:06.722Z</lastmod>
   </url>
   <url>
     <loc>https://MotionMetricsLab.github.io/posts/gpsp2023/index.html</loc>
-    <lastmod>2024-02-16T08:49:02.141Z</lastmod>
+    <lastmod>2024-02-16T09:09:06.726Z</lastmod>
   </url>
   <url>
     <loc>https://MotionMetricsLab.github.io/publications/articles/hansen2018.html</loc>
-    <lastmod>2024-02-16T08:49:02.794Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MotionMetricsLab.github.io/publications/articles/romijnders2021.html</loc>
-    <lastmod>2024-02-16T08:49:03.448Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MotionMetricsLab.github.io/publications/articles/warmerdam2020.html</loc>
-    <lastmod>2024-02-16T08:49:04.091Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MotionMetricsLab.github.io/publications.html</loc>
-    <lastmod>2024-02-16T08:49:04.717Z</lastmod>
+    <lastmod>2024-02-16T09:09:06.726Z</lastmod>
   </url>
   <url>
     <loc>https://MotionMetricsLab.github.io/services.html</loc>
-    <lastmod>2024-02-16T08:49:05.307Z</lastmod>
+    <lastmod>2024-02-16T09:09:06.726Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MotionMetricsLab.github.io/index.html</loc>
+    <lastmod>2024-02-16T09:09:06.722Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MotionMetricsLab.github.io/people/staff/hansen_clint.html</loc>
+    <lastmod>2024-02-16T09:09:06.722Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MotionMetricsLab.github.io/people/staff/welzel_julius.html</loc>
+    <lastmod>2024-02-16T09:09:06.722Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MotionMetricsLab.github.io/people/staff/romijnders_robbin.html</loc>
+    <lastmod>2024-02-16T09:09:06.722Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MotionMetricsLab.github.io/contact.html</loc>
+    <lastmod>2024-02-16T09:09:06.710Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MotionMetricsLab.github.io/publications/articles/romijnders2021.html</loc>
+    <lastmod>2024-02-16T09:09:06.726Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MotionMetricsLab.github.io/publications/articles/warmerdam2020.html</loc>
+    <lastmod>2024-02-16T09:09:06.726Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MotionMetricsLab.github.io/posts/google2022/index.html</loc>
+    <lastmod>2024-02-16T09:09:06.722Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MotionMetricsLab.github.io/people.html</loc>
+    <lastmod>2024-02-16T09:09:06.722Z</lastmod>
   </url>
 </urlset>
