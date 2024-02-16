@@ -20,15 +20,12 @@ website:
       - href: contact.qmd
         text: Contact
   page-footer: "Copyright 2023 &copy; Motion Metrics"
-  # google-analytics: "G-K5TXS64QLN"
-  # site-url: https://affcom.ku.edu
   repo-url: https://github.com/MotionMetricsLab
 
 
 format:
   html:
     theme: cosmo
-    css: styles.css
     toc: true
     logo: MotionMetricsMain.png
     main_color: "#00c3b3"
