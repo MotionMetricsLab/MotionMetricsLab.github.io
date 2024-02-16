@@ -6,6 +6,7 @@ image: hansen_clint.jpg
 toc: false
 about:
   id: person-profile
+  template: jolla
 ---
 
 
