@@ -5,7 +5,7 @@ title: "Motion Metrics"
 toc: false
 ---
 
-## Welcome to Motion Metric
+## Welcome to Motion Metrics
 At Motion Metric, we believe that precise and accurate movement analysis is the key to unlocking improved outcomes for patients and athletes alike. Our mission is to provide **the highest quality movement analysis services**, with a focus on **gait analysis** and **sports performance analysis**, to help our clients achieve their goals and optimize their performance.
 
 ## Our Goals
