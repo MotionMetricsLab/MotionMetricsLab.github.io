@@ -46,12 +46,12 @@ I am a researcher who specializes in the field of movement disorders. Currently 
 
 - **Annals of Neurology** <a href="https://onlinelibrary.wiley.com/journal/15318249" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br />
   Reviewer | 2023–Current
+- **Scientific reports** <a href="https://www.nature.com/srep/" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br />
+  Reviewer | 2021–Current
 - **Journal of NeuroEngineering and Rehabilitation** <a href="https://jneuroengrehab.biomedcentral.com/" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br />
   Reviewer | 2020–Current
 
 ## Education
-
-Here is the formatted education section in the specified style:
 
 - **Carl von Ossietzky University** | Oldenburg, Germany<br />
   M.Sc. in Neurocognitive Psychology | 10/2016–05/2019<br />
