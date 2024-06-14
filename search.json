@@ -1,248 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Motion Metrics",
-    "section": "",
-    "text": "At Motion Metrics, we believe that precise and accurate movement analysis is the key to unlocking improved outcomes for patients and athletes alike. Our mission is to provide the highest quality movement analysis services, with a focus on gait analysis and sports performance analysis, to help our clients achieve their goals and optimize their performance."
-  },
-  {
-    "objectID": "index.html#welcome-to-motion-metrics",
-    "href": "index.html#welcome-to-motion-metrics",
-    "title": "Motion Metrics",
-    "section": "",
-    "text": "At Motion Metrics, we believe that precise and accurate movement analysis is the key to unlocking improved outcomes for patients and athletes alike. Our mission is to provide the highest quality movement analysis services, with a focus on gait analysis and sports performance analysis, to help our clients achieve their goals and optimize their performance."
-  },
-  {
-    "objectID": "index.html#our-goals",
-    "href": "index.html#our-goals",
-    "title": "Motion Metrics",
-    "section": "Our Goals",
-    "text": "Our Goals\nAt Motion Metrics, our goal is to be the leading provider of movement analysis services. We strive to deliver the highest quality services to our clients, with a focus on accuracy, precision, and customization. We are committed to staying at the forefront of our field, and we invest in ongoing research and development to ensure that we are always using the latest techniques and technologies to deliver the best possible outcomes for our clients."
-  },
-  {
-    "objectID": "people/staff/hansen_clint.html#about-me",
-    "href": "people/staff/hansen_clint.html#about-me",
-    "title": "Clint Hansen",
+    "objectID": "people/staff/romijnders_robbin.html#about-me",
+    "href": "people/staff/romijnders_robbin.html#about-me",
+    "title": "Robbin Romijnders",
     "section": "About me",
-    "text": "About me\nMy research focuses on understanding and characterizing the biomechanics of human movement, using theoretical frameworks and experimental studies. I am mainly interested in understanding the exploited motor strategies that help to explain the movements. The use of motion analysis combined with biomechanical protocols allows developing an understanding of how motor actions are planned and executed."
+    "text": "About me\nI am an electrical and information engineer with a profound interest in the intersection of engineering and biomedical sciences, particularly as they apply to human health and medical technology. My educational journey in biomedical engineering at the Eindhoven University of Technology laid a strong foundation in this interdisciplinary field. This was further enriched by my pursuit of a Ph.D. in Electrical and Information Engineering at Kiel University, where I delved deep into the complexities of integrating engineering principles with biological systems.\nMy research trajectory has been marked by a consistent focus on applying engineering solutions to medical challenges. My work as a postdoctoral researcher at the University Hospital Schleswig-Holstein epitomizes this, where I employ my engineering expertise to contribute to medical research. This role, coupled with my previous experience as a doctoral researcher at the same institution and Kiel University, reflects my dedication to advancing healthcare through engineering innovations. Additionally, my time as a CAE Simulation Engineer at Code Product Solutions showcases my ability to apply complex engineering concepts in practical settings.\nThroughout my career, I have been deeply involved in scientific research, as evidenced by my numerous publications. These works, focusing on topics such as gait analysis in Parkinson’s disease and the development of algorithms for gait event detection, highlight my commitment to leveraging engineering for medical advancements. My approach is characterized by a unique blend of technical engineering skills and a deep understanding of biomedical applications, positioning me at the forefront of innovation in medical technology."
   },
   {
-    "objectID": "people/staff/hansen_clint.html#experience",
-    "href": "people/staff/hansen_clint.html#experience",
-    "title": "Clint Hansen",
+    "objectID": "people/staff/romijnders_robbin.html#experience",
+    "href": "people/staff/romijnders_robbin.html#experience",
+    "title": "Robbin Romijnders",
     "section": "Experience",
-    "text": "Experience\n\nUniversitätskrankenhaus Schleswig-Holstein | Kiel, Germany Operations Project Lead & Deputy Working Group Leader, Neurogeriatrics | 07/2017–Present Responsibilities include conceptual planning and practical implementation of research and industrial projects, leading a team of PhDs and Postdocs, and training scientific juniors while supporting the university’s teaching program.\nASPETAR Hospital | Doha, Qatar Project Leader, Ligament Research | 03/2016–06/2017 Responsibilities included planning and developing the Assessment Center, creating and leading the team, and ensuring project performance and clinical relevance.\nNanyang Technological University | Singapore Research Associate | 08/2015–03/2016 Responsibilities included validating a novel, cable-driven, planar manipulator, human-robot interaction, and signal processing and numerical simulations.\nSorbonne Universities | Compiègne, France Research Associate | 10/2013–08/2015 Responsibilities included collaboration on the MANDARIN project and data analysis of 3D movement."
+    "text": "Experience\n\nUniversity Hospital Schleswig-Holstein | Kiel, Germany Postdoctoral Researcher (Wissenschaftlicher Mitarbeiter) | 07/2023–Present Engaged in advanced research projects, contributing to the development of innovative medical practices.\nUniversity Hospital Schleswig-Holstein | Kiel, Germany Doctoral Researcher (Wissenschaftlicher Mitarbeiter) | 02/2021–06/2023 Conducted doctoral-level research, focusing on groundbreaking studies in the field of medical science.\nKiel University | Kiel, Germany Doctoral Researcher (Wissenschaftlicher Mitarbeiter) | 12/2019–02/2021 Pursued doctoral studies, contributing to academic research and knowledge expansion in chosen field.\nCode Product Solutions | Eindhoven, The Netherlands CAE Simulation Engineer | 09/2015–06/2018 Specialized in CAE simulation, providing technical solutions and engineering expertise for diverse projects.\nJournal activities\nJournal of NeuroEngineering and Rehabilitation  Reviewer | 2020–Current\nSensors  Reviewer | 2018–Current"
   },
   {
-    "objectID": "people/staff/hansen_clint.html#journal-activities",
-    "href": "people/staff/hansen_clint.html#journal-activities",
-    "title": "Clint Hansen",
-    "section": "Journal activities",
-    "text": "Journal activities\n\nSensors  Editor | 2018–Current\nGait and Posture  Editor | 2022–Current"
-  },
-  {
-    "objectID": "people/staff/hansen_clint.html#education",
-    "href": "people/staff/hansen_clint.html#education",
-    "title": "Clint Hansen",
+    "objectID": "people/staff/romijnders_robbin.html#education",
+    "href": "people/staff/romijnders_robbin.html#education",
+    "title": "Robbin Romijnders",
     "section": "Education",
-    "text": "Education\n\nParis-Sud University | Paris, France PhD in Human Movement Science (Distinction) | 10/2010 - 09/2013\nChristian-Albrechts-University of Kiel | Kiel, Germany Magister Atrium in Sports Science | 10/2004 - 09/2010"
-  },
-  {
-    "objectID": "posts/google2022/index.html",
-    "href": "posts/google2022/index.html",
-    "title": "Google Research Grant",
-    "section": "",
-    "text": "I am very pleased to announce that the AffCom Lab has been granted a $30,000 gift from Google LLC to support our work on novel, scalable mental health screening procedures! Specifically, we plan to use these funds to further integrate computer vision, natural language processing, ambulatory assessment, and passive sensing into new screening procedures for affective disorders. This is also an opportunity to deepen the lab’s collaborative ties with industry leaders in digital mental health. Stay tuned for more information in the next few months about a new project we plan to launch in this space!"
-  },
-  {
-    "objectID": "posts/gpsp2023/index.html",
-    "href": "posts/gpsp2023/index.html",
-    "title": "GPSP 2023 Convention",
-    "section": "",
-    "text": "Kassy and I attended the Great Plains Student Psychology Convention last weekend, hosted at Emporia State University. I gave an invited keynote address on “Reconsidering the Duchenne Smile,” and Kassy presented her first AffCom lab poster on “Adult attachment and the working alliance during brief psychotherapy for depression.” She was also awarded an Outstanding Graduate Poster award. Congratulations, Kassy!"
-  },
-  {
-    "objectID": "services.html",
-    "href": "services.html",
-    "title": "Motion Metrics",
-    "section": "",
-    "text": "Our clinical movement analysis services are designed to provide healthcare professionals with the information they need to diagnose, monitor, and treat a wide range of movement disorders. We use state-of-the-art equipment and cutting-edge analysis techniques to provide precise and accurate data on gait, posture, balance, and more. Our team of experts includes biomechanists, engineers, neuroscientists and other specialists, who work together to provide comprehensive assessments and customized treatment plans for each patient.\n:::\n\n\n\nOur sports performance analysis services are designed to help athletes of all levels achieve their full potential. Whether you are a professional athlete looking to improve your performance on the field or a weekend warrior looking to optimize your training regimen, we can help. We use the latest technology and analysis techniques to provide precise and accurate data on factors such as running gait, jump mechanics, and more. Our team of experts works closely with each athlete to help them achieve their goals."
-  },
-  {
-    "objectID": "services.html#services",
-    "href": "services.html#services",
-    "title": "Motion Metrics",
-    "section": "",
-    "text": "Our clinical movement analysis services are designed to provide healthcare professionals with the information they need to diagnose, monitor, and treat a wide range of movement disorders. We use state-of-the-art equipment and cutting-edge analysis techniques to provide precise and accurate data on gait, posture, balance, and more. Our team of experts includes biomechanists, engineers, neuroscientists and other specialists, who work together to provide comprehensive assessments and customized treatment plans for each patient.\n:::\n\n\n\nOur sports performance analysis services are designed to help athletes of all levels achieve their full potential. Whether you are a professional athlete looking to improve your performance on the field or a weekend warrior looking to optimize your training regimen, we can help. We use the latest technology and analysis techniques to provide precise and accurate data on factors such as running gait, jump mechanics, and more. Our team of experts works closely with each athlete to help them achieve their goals."
-  },
-  {
-    "objectID": "publications/articles/romijnders2021.html",
-    "href": "publications/articles/romijnders2021.html",
-    "title": "Validation of IMU-based gait event detection during curved walking and turning in older adults and Parkinson’s Disease patients",
-    "section": "",
-    "text": "Romijnders, R., Warmerdam, E., Hansen, C. et al. Validation of IMU-based gait event detection during curved walking and turning in older adults and Parkinson’s Disease patients. J NeuroEngineering Rehabil 18, 28 (2021). https://doi.org/10.1186/s12984-021-00828-0"
-  },
-  {
-    "objectID": "publications/articles/romijnders2021.html#citation-apa-7",
-    "href": "publications/articles/romijnders2021.html#citation-apa-7",
-    "title": "Validation of IMU-based gait event detection during curved walking and turning in older adults and Parkinson’s Disease patients",
-    "section": "",
-    "text": "Romijnders, R., Warmerdam, E., Hansen, C. et al. Validation of IMU-based gait event detection during curved walking and turning in older adults and Parkinson’s Disease patients. J NeuroEngineering Rehabil 18, 28 (2021). https://doi.org/10.1186/s12984-021-00828-0"
-  },
-  {
-    "objectID": "publications/articles/romijnders2021.html#abstract",
-    "href": "publications/articles/romijnders2021.html#abstract",
-    "title": "Validation of IMU-based gait event detection during curved walking and turning in older adults and Parkinson’s Disease patients",
-    "section": "Abstract",
-    "text": "Abstract\nIdentification of individual gait events is essential for clinical gait analysis, because it can be used for diagnostic purposes or tracking disease progression in neurological diseases such as Parkinson’s disease. Previous research has shown that gait events can be detected from a shank-mounted inertial measurement unit (IMU), however detection performance was often evaluated only from straight-line walking. For use in daily life, the detection performance needs to be evaluated in curved walking and turning as well as in single-task and dual-task conditions.Participants (older adults, people with Parkinson’s disease, or people who had suffered from a stroke) performed three different walking trials: (1) straight-line walking, (2) slalom walking, (3) Stroop-and-walk trial. An optical motion capture system was used a reference system. Markers were attached to the heel and toe regions of the shoe, and participants wore IMUs on the lateral sides of both shanks. The angular velocity of the shank IMUs was used to detect instances of initial foot contact (IC) and final foot contact (FC), which were compared to reference values obtained from the marker trajectories.The detection method showed high recall, precision and F1 scores in different populations for both initial contacts and final contacts during straight-line walking. Shank-mounted IMUs can be used to detect gait events during straight-line walking, slalom walking and turning. However, more false events were observed during turning and more events were missed during turning. For use in daily life we recommend identifying turning before extracting temporal gait parameters from identified gait events."
-  },
-  {
-    "objectID": "publications/articles/hansen2022.html",
-    "href": "publications/articles/hansen2022.html",
-    "title": "Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases",
-    "section": "",
-    "text": "Hansen C, Ortlieb C, Romijnders R, Warmerdam E, Welzel J, Geritz J, Maetzler W. Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases. Sensors. 2022; 22(6):2304. https://doi.org/10.3390/s22062304"
-  },
-  {
-    "objectID": "publications/articles/hansen2022.html#citation-apa-7",
-    "href": "publications/articles/hansen2022.html#citation-apa-7",
-    "title": "Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases",
-    "section": "",
-    "text": "Hansen C, Ortlieb C, Romijnders R, Warmerdam E, Welzel J, Geritz J, Maetzler W. Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases. Sensors. 2022; 22(6):2304. https://doi.org/10.3390/s22062304"
-  },
-  {
-    "objectID": "publications/articles/hansen2022.html#abstract",
-    "href": "publications/articles/hansen2022.html#abstract",
-    "title": "Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases",
-    "section": "Abstract",
-    "text": "Abstract\nEvaluating gait is part of every neurological movement disorder assessment. Generally, the physician assesses the patient based on their experience, but nowadays inertial measurement units (IMUs) are also often integrated in the assessment. Instrumented gait analysis has a longstanding tradition and temporal parameters are used to compare patient groups or trace disease progression over time. However, the day-to-day variability needs to be considered especially in specific patient cohorts. The aim of the study was to examine day-to-day variability of temporal gait parameters of two experimental conditions in a cohort of neurogeriatric patients using data extracted from a lower back-worn IMU. We recruited 49 participants (24 women (age: 78 years ± 6 years, BMI = 25.1 kg/m2 and 25 men (age: 77 years ± 6 years, BMI = 26.5 kg/m2)) from the neurogeriatric ward. Two gait distances (4 m and 20 m) were performed during the first session and repeated the following day. To evaluate reliability, the Intraclass Correlation Coefficient (ICC2,k) and minimal detectable change (MDC) were calculated for the number of steps, step time, stride time, stance time, swing time, double limb support time, double limb support time variability, stride time variability and stride time asymmetry. The temporal gait parameters showed poor to moderate reliability with mean ICC and mean MDC95% values of 0.57 ± 0.18 and 52% ± 53%, respectively. Overall, only four out of the nine computed temporal gait parameters showed high relative reliability and good absolute reliability values. The reliability increased with walking distance. When only investigating steady-state walking during the 20 m walking condition, the relative and absolute reliability improved again. The most reliable parameters were swing time, stride time, step time and stance time. Study results demonstrate that reliability is an important factor to consider when working with IMU derived gait parameters in specific patient cohorts. This advocates for a careful parameter selection as not all parameters seem to be suitable when assessing gait in neurogeriatric patients."
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "Motion Metrics",
-    "section": "",
-    "text": "CEO\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlgorithm Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Wizard\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#research-staff",
-    "href": "people.html#research-staff",
-    "title": "Motion Metrics",
-    "section": "",
-    "text": "CEO\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlgorithm Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Wizard\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Motion Metrics",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts\n    Robbin Romijnders, Elke Warmerdam, Clint Hansen, Gerhard Schmidt, Walter Maetzler\n    Sensors\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Long-term unsupervised mobility assessment in movement disorders\n    Elke Warmerdam and Jeffrey M Hausdorff and Arash Atrsaei and Yuhan Zhou and Anat Mirelman and Kamiar Aminian and Alberto J Espay and Clint Hansen and Luc J W Evers and Andreas Keller and Claudine Lamoth and Andrea Pilotto and Lynn Rochester and Gerhard Schmidt and Bastiaan R Bloem and Walter Maetzler\n    The Lancet Neurology\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases\n    Clint Hansen, Christian Ortlieb, Robbin Romijnders, Elke Warmerdam, Julius Welzel, Johanna Geritz, Walter Maetzler\n    Sensors\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Validation of IMU-based gait event detection during curved walking and turning in older adults and Parkinson’s Disease patients\n    Robbin Romijnders, Elke Warmerdam, Clint Hansen, Julius Welzel, Gerhard Schmidt, Walter Maetzler\n     Journal of NeuroEngineering and Rehabilitation\n    (2021)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease\n    Clint Hansen, Alvaro Sanchez-Ferro, Walter Maetzler\n    Journal of Parkinson's disease\n    (2018)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/articles/hansen2018.html",
-    "href": "publications/articles/hansen2018.html",
-    "title": "How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease",
-    "section": "",
-    "text": "Hansen, C., Sanchez-Ferro, A., & Maetzler, W. (2018). How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease. In P. Brundin, J. W. Langston, & B. R. Bloem (Eds.), Journal of Parkinson’s Disease (Vol. 8, Issue s1, pp. S41–S45). IOS Press. https://doi.org/10.3233/jpd-181498."
-  },
-  {
-    "objectID": "publications/articles/hansen2018.html#citation-apa-7",
-    "href": "publications/articles/hansen2018.html#citation-apa-7",
-    "title": "How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease",
-    "section": "",
-    "text": "Hansen, C., Sanchez-Ferro, A., & Maetzler, W. (2018). How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease. In P. Brundin, J. W. Langston, & B. R. Bloem (Eds.), Journal of Parkinson’s Disease (Vol. 8, Issue s1, pp. S41–S45). IOS Press. https://doi.org/10.3233/jpd-181498."
-  },
-  {
-    "objectID": "publications/articles/hansen2018.html#abstract",
-    "href": "publications/articles/hansen2018.html#abstract",
-    "title": "How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease",
-    "section": "Abstract",
-    "text": "Abstract\nCare of patients with Parkinson’s disease (PD) will dramatically change in the upcoming years. The nationwide implementations of the patient-controlled electronic health record (EHR) and the technology-based home monitoring system will most probably be the cornerstones of this revolution. We speculate that, within the course of the next decade, EHRs will lead to a substantial empowerment of patients, and monitoring of motor and non-motor manifestations of PD will shift from the clinic to the home. As far as this can be foreseen, small, partly clothing-embedded and implanted sensor systems allowing passive (i.e., non-obtrusive) data collection will dominate the market. They will interoperate with the personal EHR and other potentially health-related electronic databases such as clinical warehouses and population health analytics platforms. Analysis software will be mainly built on artificial intelligence, and presentation of data will be intuitive. This scenario will eventually help both the patient and the medical professional by providing higher amounts of quality information about daily-relevant effects of disease and treatment, eventually allowing for a better and more personalized care."
-  },
-  {
-    "objectID": "publications/articles/warmerdam2020.html",
-    "href": "publications/articles/warmerdam2020.html",
-    "title": "Long-term unsupervised mobility assessment in movement disorders",
-    "section": "",
-    "text": "Warmerdam, E., Hausdorff, J. M., Atrsaei, A., Zhou, Y., Mirelman, A., Aminian, K., Espay, A. J., Hansen, C., Evers, L. J. W., Keller, A., Lamoth, C., Pilotto, A., Rochester, L., Schmidt, G., Bloem, B. R., & Maetzler, W. (2020). Long-term unsupervised mobility assessment in movement disorders. In The Lancet Neurology (Vol. 19, Issue 5, pp. 462–470). Elsevier BV. https://doi.org/10.1016/s1474-4422(19)30397-7."
-  },
-  {
-    "objectID": "publications/articles/warmerdam2020.html#citation-apa-7",
-    "href": "publications/articles/warmerdam2020.html#citation-apa-7",
-    "title": "Long-term unsupervised mobility assessment in movement disorders",
-    "section": "",
-    "text": "Warmerdam, E., Hausdorff, J. M., Atrsaei, A., Zhou, Y., Mirelman, A., Aminian, K., Espay, A. J., Hansen, C., Evers, L. J. W., Keller, A., Lamoth, C., Pilotto, A., Rochester, L., Schmidt, G., Bloem, B. R., & Maetzler, W. (2020). Long-term unsupervised mobility assessment in movement disorders. In The Lancet Neurology (Vol. 19, Issue 5, pp. 462–470). Elsevier BV. https://doi.org/10.1016/s1474-4422(19)30397-7."
-  },
-  {
-    "objectID": "publications/articles/warmerdam2020.html#abstract",
-    "href": "publications/articles/warmerdam2020.html#abstract",
-    "title": "Long-term unsupervised mobility assessment in movement disorders",
-    "section": "Abstract",
-    "text": "Abstract\nMobile health technologies (wearable, portable, body-fixed sensors, or domestic-integrated devices) that quantify mobility in unsupervised, daily living environments are emerging as complementary clinical assessments. Data collected in these ecologically valid, patient-relevant settings can overcome limitations of conventional clinical assessments, as they capture fluctuating and rare events. These data could support clinical decision making and could also serve as outcomes in clinical trials. However, studies that directly compared assessments made in unsupervised and supervised (eg, in the laboratory or hospital) settings point to large disparities, even in the same parameters of mobility. These differences appear to be affected by psychological, physiological, cognitive, environmental, and technical factors, and by the types of mobilities and diagnoses assessed. To facilitate the successful adaptation of the unsupervised assessment of mobility into clinical practice and clinical trials, clinicians and researchers should consider these disparities and the multiple factors that contribute to them."
-  },
-  {
-    "objectID": "publications/articles/romijnders2022.html",
-    "href": "publications/articles/romijnders2022.html",
-    "title": "A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts",
-    "section": "",
-    "text": "Romijnders R, Warmerdam E, Hansen C, Schmidt G, Maetzler W. A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts. Sensors. 2022; 22(10):3859. https://doi.org/10.3390/s22103859"
-  },
-  {
-    "objectID": "publications/articles/romijnders2022.html#citation-apa-7",
-    "href": "publications/articles/romijnders2022.html#citation-apa-7",
-    "title": "A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts",
-    "section": "",
-    "text": "Romijnders R, Warmerdam E, Hansen C, Schmidt G, Maetzler W. A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts. Sensors. 2022; 22(10):3859. https://doi.org/10.3390/s22103859"
-  },
-  {
-    "objectID": "publications/articles/romijnders2022.html#abstract",
-    "href": "publications/articles/romijnders2022.html#abstract",
-    "title": "A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts",
-    "section": "Abstract",
-    "text": "Abstract\nMany algorithms use 3D accelerometer and/or gyroscope data from inertial measurement unit (IMU) sensors to detect gait events (i.e., initial and final foot contact). However, these algorithms often require knowledge about sensor orientation and use empirically derived thresholds. As alignment cannot always be controlled for in ambulatory assessments, methods are needed that require little knowledge on sensor location and orientation, e.g., a convolutional neural network-based deep learning model. Therefore, 157 participants from healthy and neurologically diseased cohorts walked 5 m distances at slow, preferred, and fast walking speed, while data were collected from IMUs on the left and right ankle and shank. Gait events were detected and stride parameters were extracted using a deep learning model and an optoelectronic motion capture (OMC) system for reference. The deep learning model consisted of convolutional layers using dilated convolutions, followed by two independent fully connected layers to predict whether a time step corresponded to the event of initial contact (IC) or final contact (FC), respectively. Results showed a high detection rate for both initial and final contacts across sensor locations (recall ≥92% , precision ≥97% ). Time agreement was excellent as witnessed from the median time error (0.005 s) and corresponding inter-quartile range (0.020 s). The extracted stride-specific parameters were in good agreement with parameters derived from the OMC system (maximum mean difference 0.003 s and corresponding maximum limits of agreement (−0.049 s, 0.051 s) for a 95% confidence level). Thus, the deep learning approach was considered a valid approach for detecting gait events and extracting stride-specific parameters with little knowledge on exact IMU location and orientation in conditions with and without walking pathologies due to neurological diseases."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Motion Metrics",
-    "section": "",
-    "text": "Motion Metrics is located in Kiel.\nIf you are interested in working with us, please drop us a line via mail."
-  },
-  {
-    "objectID": "contact.html#visit-us",
-    "href": "contact.html#visit-us",
-    "title": "Motion Metrics",
-    "section": "",
-    "text": "Motion Metrics is located in Kiel.\nIf you are interested in working with us, please drop us a line via mail."
-  },
-  {
-    "objectID": "posts/dischargeR01/index.html",
-    "href": "posts/dischargeR01/index.html",
-    "title": "NIMH R01 Grant",
-    "section": "",
-    "text": "I am very pleased to announce that we have been awarded an R01 (Research Project) Grant from the National Institute of Mental Health (R01-MH125740) to study the use of multimodal information and machine learning to estimate the discharge readiness of psychiatric inpatients with severe mental illness. The project period is from 04/2021 through 02/2025 with a total funding of $1,160,953."
-  },
-  {
-    "objectID": "posts/dischargeR01/index.html#project-team",
-    "href": "posts/dischargeR01/index.html#project-team",
-    "title": "NIMH R01 Grant",
-    "section": "Project Team",
-    "text": "Project Team\n\nMPI: Justin Baker, McLean Hospital, Harvard Medical School\nMPI: Louis-Philippe Morency, Carnegie Mellon University\nCo-I: Jeffrey Girard, University of Kansas"
-  },
-  {
-    "objectID": "posts/dischargeR01/index.html#project-summary",
-    "href": "posts/dischargeR01/index.html#project-summary",
-    "title": "NIMH R01 Grant",
-    "section": "Project Summary",
-    "text": "Project Summary\nWhich psychiatric symptoms and behaviors are the most important to assess and manage during critical points in psychiatric healthcare, such as the time leading up to hospital discharge? At present, psychiatry lacks objective tests that could inform this and other clinically challenging–and potentially costly–decisions. Establishing valid objective markers of psychiatric disease processes is especially challenging compared with the development of biomarkers in other fields. One key challenge is lack of available data from psychiatrically ill patients during key periods in their care trajectory, which the present project seeks to address. A second major challenge, also addressed as a core feature in this project, is the complex, context-dependence of human behavioral expression, which greatly complicates efforts to establish robust, objective measures that reflect underlying mental health disease processes. This project will address both barriers, introducing a new computational framework, named Context-Adaptive Multimodal Informatics, to identify and evaluate behavioral biomarkers related to discharge-readiness and symptoms in severe mental illness. The project aims to address five fundamental research challenges: (1) Acquire a multimodal psychiatric discharge-planning dataset of 400 inpatients with severe mental illness; (2) Create self-aware linear and neural models to identify multimodal behavioral biomarkers; (3) Develop context-sensitive linear and neural models to contextualize behavioral biomarkers and quantify the influence of context on behavior; (4) Build a new adaptive assessment planning framework which creates a personalized patient analysis to rank contexts and modalities for the next assessment session; (5) Assess the trustworthiness and generalizability of our measurements, models, and insights. This research will improve basic understanding of social context and behavioral biomarkers, build objective measures for mental health assessment, and more broadly, pave the way for a restructured care-delivery system in which resources are allocated intelligently to ensure assessments are informative with respect to desired clinical objectives."
-  },
-  {
-    "objectID": "posts/dischargeR01/index.html#public-health-relevance",
-    "href": "posts/dischargeR01/index.html#public-health-relevance",
-    "title": "NIMH R01 Grant",
-    "section": "Public Health Relevance",
-    "text": "Public Health Relevance\nCharting mental illness trajectories to determine when, where, and how to intervene is a key objective of the NIMH mission to transform the understanding and treatment of mental illness. This project will: (1) deepen our understanding of the trajectory leading to hospitalization discharge with knowledge about behavioral biomarkers and their relationship to symptoms and discharge-readiness; (2) contribute to the knowledge on how social context impacts patient’s behaviors since some symptoms or predictive biomarkers may only be seen in a specific context such as social or solitary interactions; and (3) contribute a credible, objective framework for behavioral measurement by defining interpretable biomarkers and latent factors for symptoms and discharge assessment. The project will also enable a judicious use of remote sensing and non-direct clinical encounters (e.g., telemedicine), which are increasingly viewed as essential capabilities in the medical fields to reduce costs while maintaining or elevating care standards."
+    "text": "Education\n\nUniversity of Kiel | Kiel, Schleswig-Holstein, Germany PhD Student (Electrical and Information Engineering), 2019–2023\nEindhoven University of Technology | Eindhoven, The Netherlands MSc in Biomedical Engineering | 2012–2015\nEindhoven University of Technology | Eindhoven, The Netherlands BSc in Biomedical Engineering | 2008–2012"
   },
   {
     "objectID": "people/staff/welzel_julius.html#about-me",
@@ -273,24 +49,248 @@
     "text": "Education\n\nCarl von Ossietzky University | Oldenburg, Germany M.Sc. in Neurocognitive Psychology | 10/2016–05/2019 Thesis: The Effect of Age on Event-related Desynchronization in Visuomotor-Task Motor Imagery (Supervisors: Mareike Daeglau & Stefan Debener)\nJohannes Gutenberg University | Mainz, Germany B.Sc. in Psychology | 10/2012–10/2016 Thesis: The Effect of Mindfulness-Based Stress Reduction on Life Quality of Breast Cancer Patients (Supervisors: Mario Wenzel & Thomas Kubiak)"
   },
   {
-    "objectID": "people/staff/romijnders_robbin.html#about-me",
-    "href": "people/staff/romijnders_robbin.html#about-me",
-    "title": "Robbin Romijnders",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Motion Metrics",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts\n    Robbin Romijnders, Elke Warmerdam, Clint Hansen, Gerhard Schmidt, Walter Maetzler\n    Sensors\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Long-term unsupervised mobility assessment in movement disorders\n    Elke Warmerdam and Jeffrey M Hausdorff and Arash Atrsaei and Yuhan Zhou and Anat Mirelman and Kamiar Aminian and Alberto J Espay and Clint Hansen and Luc J W Evers and Andreas Keller and Claudine Lamoth and Andrea Pilotto and Lynn Rochester and Gerhard Schmidt and Bastiaan R Bloem and Walter Maetzler\n    The Lancet Neurology\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases\n    Clint Hansen, Christian Ortlieb, Robbin Romijnders, Elke Warmerdam, Julius Welzel, Johanna Geritz, Walter Maetzler\n    Sensors\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Validation of IMU-based gait event detection during curved walking and turning in older adults and Parkinson’s Disease patients\n    Robbin Romijnders, Elke Warmerdam, Clint Hansen, Julius Welzel, Gerhard Schmidt, Walter Maetzler\n     Journal of NeuroEngineering and Rehabilitation\n    (2021)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease\n    Clint Hansen, Alvaro Sanchez-Ferro, Walter Maetzler\n    Journal of Parkinson's disease\n    (2018)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/google2022/index.html",
+    "href": "posts/google2022/index.html",
+    "title": "Google Research Grant",
+    "section": "",
+    "text": "I am very pleased to announce that the AffCom Lab has been granted a $30,000 gift from Google LLC to support our work on novel, scalable mental health screening procedures! Specifically, we plan to use these funds to further integrate computer vision, natural language processing, ambulatory assessment, and passive sensing into new screening procedures for affective disorders. This is also an opportunity to deepen the lab’s collaborative ties with industry leaders in digital mental health. Stay tuned for more information in the next few months about a new project we plan to launch in this space!"
+  },
+  {
+    "objectID": "posts/dischargeR01/index.html",
+    "href": "posts/dischargeR01/index.html",
+    "title": "NIMH R01 Grant",
+    "section": "",
+    "text": "I am very pleased to announce that we have been awarded an R01 (Research Project) Grant from the National Institute of Mental Health (R01-MH125740) to study the use of multimodal information and machine learning to estimate the discharge readiness of psychiatric inpatients with severe mental illness. The project period is from 04/2021 through 02/2025 with a total funding of $1,160,953."
+  },
+  {
+    "objectID": "posts/dischargeR01/index.html#project-team",
+    "href": "posts/dischargeR01/index.html#project-team",
+    "title": "NIMH R01 Grant",
+    "section": "Project Team",
+    "text": "Project Team\n\nMPI: Justin Baker, McLean Hospital, Harvard Medical School\nMPI: Louis-Philippe Morency, Carnegie Mellon University\nCo-I: Jeffrey Girard, University of Kansas"
+  },
+  {
+    "objectID": "posts/dischargeR01/index.html#project-summary",
+    "href": "posts/dischargeR01/index.html#project-summary",
+    "title": "NIMH R01 Grant",
+    "section": "Project Summary",
+    "text": "Project Summary\nWhich psychiatric symptoms and behaviors are the most important to assess and manage during critical points in psychiatric healthcare, such as the time leading up to hospital discharge? At present, psychiatry lacks objective tests that could inform this and other clinically challenging–and potentially costly–decisions. Establishing valid objective markers of psychiatric disease processes is especially challenging compared with the development of biomarkers in other fields. One key challenge is lack of available data from psychiatrically ill patients during key periods in their care trajectory, which the present project seeks to address. A second major challenge, also addressed as a core feature in this project, is the complex, context-dependence of human behavioral expression, which greatly complicates efforts to establish robust, objective measures that reflect underlying mental health disease processes. This project will address both barriers, introducing a new computational framework, named Context-Adaptive Multimodal Informatics, to identify and evaluate behavioral biomarkers related to discharge-readiness and symptoms in severe mental illness. The project aims to address five fundamental research challenges: (1) Acquire a multimodal psychiatric discharge-planning dataset of 400 inpatients with severe mental illness; (2) Create self-aware linear and neural models to identify multimodal behavioral biomarkers; (3) Develop context-sensitive linear and neural models to contextualize behavioral biomarkers and quantify the influence of context on behavior; (4) Build a new adaptive assessment planning framework which creates a personalized patient analysis to rank contexts and modalities for the next assessment session; (5) Assess the trustworthiness and generalizability of our measurements, models, and insights. This research will improve basic understanding of social context and behavioral biomarkers, build objective measures for mental health assessment, and more broadly, pave the way for a restructured care-delivery system in which resources are allocated intelligently to ensure assessments are informative with respect to desired clinical objectives."
+  },
+  {
+    "objectID": "posts/dischargeR01/index.html#public-health-relevance",
+    "href": "posts/dischargeR01/index.html#public-health-relevance",
+    "title": "NIMH R01 Grant",
+    "section": "Public Health Relevance",
+    "text": "Public Health Relevance\nCharting mental illness trajectories to determine when, where, and how to intervene is a key objective of the NIMH mission to transform the understanding and treatment of mental illness. This project will: (1) deepen our understanding of the trajectory leading to hospitalization discharge with knowledge about behavioral biomarkers and their relationship to symptoms and discharge-readiness; (2) contribute to the knowledge on how social context impacts patient’s behaviors since some symptoms or predictive biomarkers may only be seen in a specific context such as social or solitary interactions; and (3) contribute a credible, objective framework for behavioral measurement by defining interpretable biomarkers and latent factors for symptoms and discharge assessment. The project will also enable a judicious use of remote sensing and non-direct clinical encounters (e.g., telemedicine), which are increasingly viewed as essential capabilities in the medical fields to reduce costs while maintaining or elevating care standards."
+  },
+  {
+    "objectID": "publications/articles/hansen2022.html",
+    "href": "publications/articles/hansen2022.html",
+    "title": "Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases",
+    "section": "",
+    "text": "Hansen C, Ortlieb C, Romijnders R, Warmerdam E, Welzel J, Geritz J, Maetzler W. Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases. Sensors. 2022; 22(6):2304. https://doi.org/10.3390/s22062304"
+  },
+  {
+    "objectID": "publications/articles/hansen2022.html#citation-apa-7",
+    "href": "publications/articles/hansen2022.html#citation-apa-7",
+    "title": "Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases",
+    "section": "",
+    "text": "Hansen C, Ortlieb C, Romijnders R, Warmerdam E, Welzel J, Geritz J, Maetzler W. Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases. Sensors. 2022; 22(6):2304. https://doi.org/10.3390/s22062304"
+  },
+  {
+    "objectID": "publications/articles/hansen2022.html#abstract",
+    "href": "publications/articles/hansen2022.html#abstract",
+    "title": "Reliability of IMU-Derived Temporal Gait Parameters in Neurological Diseases",
+    "section": "Abstract",
+    "text": "Abstract\nEvaluating gait is part of every neurological movement disorder assessment. Generally, the physician assesses the patient based on their experience, but nowadays inertial measurement units (IMUs) are also often integrated in the assessment. Instrumented gait analysis has a longstanding tradition and temporal parameters are used to compare patient groups or trace disease progression over time. However, the day-to-day variability needs to be considered especially in specific patient cohorts. The aim of the study was to examine day-to-day variability of temporal gait parameters of two experimental conditions in a cohort of neurogeriatric patients using data extracted from a lower back-worn IMU. We recruited 49 participants (24 women (age: 78 years ± 6 years, BMI = 25.1 kg/m2 and 25 men (age: 77 years ± 6 years, BMI = 26.5 kg/m2)) from the neurogeriatric ward. Two gait distances (4 m and 20 m) were performed during the first session and repeated the following day. To evaluate reliability, the Intraclass Correlation Coefficient (ICC2,k) and minimal detectable change (MDC) were calculated for the number of steps, step time, stride time, stance time, swing time, double limb support time, double limb support time variability, stride time variability and stride time asymmetry. The temporal gait parameters showed poor to moderate reliability with mean ICC and mean MDC95% values of 0.57 ± 0.18 and 52% ± 53%, respectively. Overall, only four out of the nine computed temporal gait parameters showed high relative reliability and good absolute reliability values. The reliability increased with walking distance. When only investigating steady-state walking during the 20 m walking condition, the relative and absolute reliability improved again. The most reliable parameters were swing time, stride time, step time and stance time. Study results demonstrate that reliability is an important factor to consider when working with IMU derived gait parameters in specific patient cohorts. This advocates for a careful parameter selection as not all parameters seem to be suitable when assessing gait in neurogeriatric patients."
+  },
+  {
+    "objectID": "publications/articles/hansen2018.html",
+    "href": "publications/articles/hansen2018.html",
+    "title": "How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease",
+    "section": "",
+    "text": "Hansen, C., Sanchez-Ferro, A., & Maetzler, W. (2018). How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease. In P. Brundin, J. W. Langston, & B. R. Bloem (Eds.), Journal of Parkinson’s Disease (Vol. 8, Issue s1, pp. S41–S45). IOS Press. https://doi.org/10.3233/jpd-181498."
+  },
+  {
+    "objectID": "publications/articles/hansen2018.html#citation-apa-7",
+    "href": "publications/articles/hansen2018.html#citation-apa-7",
+    "title": "How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease",
+    "section": "",
+    "text": "Hansen, C., Sanchez-Ferro, A., & Maetzler, W. (2018). How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease. In P. Brundin, J. W. Langston, & B. R. Bloem (Eds.), Journal of Parkinson’s Disease (Vol. 8, Issue s1, pp. S41–S45). IOS Press. https://doi.org/10.3233/jpd-181498."
+  },
+  {
+    "objectID": "publications/articles/hansen2018.html#abstract",
+    "href": "publications/articles/hansen2018.html#abstract",
+    "title": "How Mobile Health Technology and Electronic Health Records Will Change Care of Patients with Parkinson’s Disease",
+    "section": "Abstract",
+    "text": "Abstract\nCare of patients with Parkinson’s disease (PD) will dramatically change in the upcoming years. The nationwide implementations of the patient-controlled electronic health record (EHR) and the technology-based home monitoring system will most probably be the cornerstones of this revolution. We speculate that, within the course of the next decade, EHRs will lead to a substantial empowerment of patients, and monitoring of motor and non-motor manifestations of PD will shift from the clinic to the home. As far as this can be foreseen, small, partly clothing-embedded and implanted sensor systems allowing passive (i.e., non-obtrusive) data collection will dominate the market. They will interoperate with the personal EHR and other potentially health-related electronic databases such as clinical warehouses and population health analytics platforms. Analysis software will be mainly built on artificial intelligence, and presentation of data will be intuitive. This scenario will eventually help both the patient and the medical professional by providing higher amounts of quality information about daily-relevant effects of disease and treatment, eventually allowing for a better and more personalized care."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Motion Metrics",
+    "section": "",
+    "text": "At Motion Metrics, we believe that precise and accurate movement analysis is the key to unlocking improved outcomes for patients and athletes alike. Our mission is to provide the highest quality movement analysis services, with a focus on gait analysis and sports performance analysis, to help our clients achieve their goals and optimize their performance."
+  },
+  {
+    "objectID": "index.html#welcome-to-motion-metrics",
+    "href": "index.html#welcome-to-motion-metrics",
+    "title": "Motion Metrics",
+    "section": "",
+    "text": "At Motion Metrics, we believe that precise and accurate movement analysis is the key to unlocking improved outcomes for patients and athletes alike. Our mission is to provide the highest quality movement analysis services, with a focus on gait analysis and sports performance analysis, to help our clients achieve their goals and optimize their performance."
+  },
+  {
+    "objectID": "index.html#our-goals",
+    "href": "index.html#our-goals",
+    "title": "Motion Metrics",
+    "section": "Our Goals",
+    "text": "Our Goals\nAt Motion Metrics, our goal is to be the leading provider of movement analysis services. We strive to deliver the highest quality services to our clients, with a focus on accuracy, precision, and customization. We are committed to staying at the forefront of our field, and we invest in ongoing research and development to ensure that we are always using the latest techniques and technologies to deliver the best possible outcomes for our clients."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Motion Metrics",
+    "section": "",
+    "text": "CEO\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlgorithm Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Wizard\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#research-staff",
+    "href": "people.html#research-staff",
+    "title": "Motion Metrics",
+    "section": "",
+    "text": "CEO\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlgorithm Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Wizard\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/articles/warmerdam2020.html",
+    "href": "publications/articles/warmerdam2020.html",
+    "title": "Long-term unsupervised mobility assessment in movement disorders",
+    "section": "",
+    "text": "Warmerdam, E., Hausdorff, J. M., Atrsaei, A., Zhou, Y., Mirelman, A., Aminian, K., Espay, A. J., Hansen, C., Evers, L. J. W., Keller, A., Lamoth, C., Pilotto, A., Rochester, L., Schmidt, G., Bloem, B. R., & Maetzler, W. (2020). Long-term unsupervised mobility assessment in movement disorders. In The Lancet Neurology (Vol. 19, Issue 5, pp. 462–470). Elsevier BV. https://doi.org/10.1016/s1474-4422(19)30397-7."
+  },
+  {
+    "objectID": "publications/articles/warmerdam2020.html#citation-apa-7",
+    "href": "publications/articles/warmerdam2020.html#citation-apa-7",
+    "title": "Long-term unsupervised mobility assessment in movement disorders",
+    "section": "",
+    "text": "Warmerdam, E., Hausdorff, J. M., Atrsaei, A., Zhou, Y., Mirelman, A., Aminian, K., Espay, A. J., Hansen, C., Evers, L. J. W., Keller, A., Lamoth, C., Pilotto, A., Rochester, L., Schmidt, G., Bloem, B. R., & Maetzler, W. (2020). Long-term unsupervised mobility assessment in movement disorders. In The Lancet Neurology (Vol. 19, Issue 5, pp. 462–470). Elsevier BV. https://doi.org/10.1016/s1474-4422(19)30397-7."
+  },
+  {
+    "objectID": "publications/articles/warmerdam2020.html#abstract",
+    "href": "publications/articles/warmerdam2020.html#abstract",
+    "title": "Long-term unsupervised mobility assessment in movement disorders",
+    "section": "Abstract",
+    "text": "Abstract\nMobile health technologies (wearable, portable, body-fixed sensors, or domestic-integrated devices) that quantify mobility in unsupervised, daily living environments are emerging as complementary clinical assessments. Data collected in these ecologically valid, patient-relevant settings can overcome limitations of conventional clinical assessments, as they capture fluctuating and rare events. These data could support clinical decision making and could also serve as outcomes in clinical trials. However, studies that directly compared assessments made in unsupervised and supervised (eg, in the laboratory or hospital) settings point to large disparities, even in the same parameters of mobility. These differences appear to be affected by psychological, physiological, cognitive, environmental, and technical factors, and by the types of mobilities and diagnoses assessed. To facilitate the successful adaptation of the unsupervised assessment of mobility into clinical practice and clinical trials, clinicians and researchers should consider these disparities and the multiple factors that contribute to them."
+  },
+  {
+    "objectID": "publications/articles/romijnders2021.html",
+    "href": "publications/articles/romijnders2021.html",
+    "title": "Validation of IMU-based gait event detection during curved walking and turning in older adults and Parkinson’s Disease patients",
+    "section": "",
+    "text": "Romijnders, R., Warmerdam, E., Hansen, C. et al. Validation of IMU-based gait event detection during curved walking and turning in older adults and Parkinson’s Disease patients. J NeuroEngineering Rehabil 18, 28 (2021). https://doi.org/10.1186/s12984-021-00828-0"
+  },
+  {
+    "objectID": "publications/articles/romijnders2021.html#citation-apa-7",
+    "href": "publications/articles/romijnders2021.html#citation-apa-7",
+    "title": "Validation of IMU-based gait event detection during curved walking and turning in older adults and Parkinson’s Disease patients",
+    "section": "",
+    "text": "Romijnders, R., Warmerdam, E., Hansen, C. et al. Validation of IMU-based gait event detection during curved walking and turning in older adults and Parkinson’s Disease patients. J NeuroEngineering Rehabil 18, 28 (2021). https://doi.org/10.1186/s12984-021-00828-0"
+  },
+  {
+    "objectID": "publications/articles/romijnders2021.html#abstract",
+    "href": "publications/articles/romijnders2021.html#abstract",
+    "title": "Validation of IMU-based gait event detection during curved walking and turning in older adults and Parkinson’s Disease patients",
+    "section": "Abstract",
+    "text": "Abstract\nIdentification of individual gait events is essential for clinical gait analysis, because it can be used for diagnostic purposes or tracking disease progression in neurological diseases such as Parkinson’s disease. Previous research has shown that gait events can be detected from a shank-mounted inertial measurement unit (IMU), however detection performance was often evaluated only from straight-line walking. For use in daily life, the detection performance needs to be evaluated in curved walking and turning as well as in single-task and dual-task conditions.Participants (older adults, people with Parkinson’s disease, or people who had suffered from a stroke) performed three different walking trials: (1) straight-line walking, (2) slalom walking, (3) Stroop-and-walk trial. An optical motion capture system was used a reference system. Markers were attached to the heel and toe regions of the shoe, and participants wore IMUs on the lateral sides of both shanks. The angular velocity of the shank IMUs was used to detect instances of initial foot contact (IC) and final foot contact (FC), which were compared to reference values obtained from the marker trajectories.The detection method showed high recall, precision and F1 scores in different populations for both initial contacts and final contacts during straight-line walking. Shank-mounted IMUs can be used to detect gait events during straight-line walking, slalom walking and turning. However, more false events were observed during turning and more events were missed during turning. For use in daily life we recommend identifying turning before extracting temporal gait parameters from identified gait events."
+  },
+  {
+    "objectID": "publications/articles/romijnders2022.html",
+    "href": "publications/articles/romijnders2022.html",
+    "title": "A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts",
+    "section": "",
+    "text": "Romijnders R, Warmerdam E, Hansen C, Schmidt G, Maetzler W. A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts. Sensors. 2022; 22(10):3859. https://doi.org/10.3390/s22103859"
+  },
+  {
+    "objectID": "publications/articles/romijnders2022.html#citation-apa-7",
+    "href": "publications/articles/romijnders2022.html#citation-apa-7",
+    "title": "A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts",
+    "section": "",
+    "text": "Romijnders R, Warmerdam E, Hansen C, Schmidt G, Maetzler W. A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts. Sensors. 2022; 22(10):3859. https://doi.org/10.3390/s22103859"
+  },
+  {
+    "objectID": "publications/articles/romijnders2022.html#abstract",
+    "href": "publications/articles/romijnders2022.html#abstract",
+    "title": "A Deep Learning Approach for Gait Event Detection from a Single Shank-Worn IMU: Validation in Healthy and Neurological Cohorts",
+    "section": "Abstract",
+    "text": "Abstract\nMany algorithms use 3D accelerometer and/or gyroscope data from inertial measurement unit (IMU) sensors to detect gait events (i.e., initial and final foot contact). However, these algorithms often require knowledge about sensor orientation and use empirically derived thresholds. As alignment cannot always be controlled for in ambulatory assessments, methods are needed that require little knowledge on sensor location and orientation, e.g., a convolutional neural network-based deep learning model. Therefore, 157 participants from healthy and neurologically diseased cohorts walked 5 m distances at slow, preferred, and fast walking speed, while data were collected from IMUs on the left and right ankle and shank. Gait events were detected and stride parameters were extracted using a deep learning model and an optoelectronic motion capture (OMC) system for reference. The deep learning model consisted of convolutional layers using dilated convolutions, followed by two independent fully connected layers to predict whether a time step corresponded to the event of initial contact (IC) or final contact (FC), respectively. Results showed a high detection rate for both initial and final contacts across sensor locations (recall ≥92% , precision ≥97% ). Time agreement was excellent as witnessed from the median time error (0.005 s) and corresponding inter-quartile range (0.020 s). The extracted stride-specific parameters were in good agreement with parameters derived from the OMC system (maximum mean difference 0.003 s and corresponding maximum limits of agreement (−0.049 s, 0.051 s) for a 95% confidence level). Thus, the deep learning approach was considered a valid approach for detecting gait events and extracting stride-specific parameters with little knowledge on exact IMU location and orientation in conditions with and without walking pathologies due to neurological diseases."
+  },
+  {
+    "objectID": "posts/gpsp2023/index.html",
+    "href": "posts/gpsp2023/index.html",
+    "title": "GPSP 2023 Convention",
+    "section": "",
+    "text": "Kassy and I attended the Great Plains Student Psychology Convention last weekend, hosted at Emporia State University. I gave an invited keynote address on “Reconsidering the Duchenne Smile,” and Kassy presented her first AffCom lab poster on “Adult attachment and the working alliance during brief psychotherapy for depression.” She was also awarded an Outstanding Graduate Poster award. Congratulations, Kassy!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Motion Metrics",
+    "section": "",
+    "text": "Motion Metrics is located in Kiel.\nIf you are interested in working with us, please drop us a line via mail."
+  },
+  {
+    "objectID": "contact.html#visit-us",
+    "href": "contact.html#visit-us",
+    "title": "Motion Metrics",
+    "section": "",
+    "text": "Motion Metrics is located in Kiel.\nIf you are interested in working with us, please drop us a line via mail."
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Motion Metrics",
+    "section": "",
+    "text": "Our clinical movement analysis services are designed to provide healthcare professionals with the information they need to diagnose, monitor, and treat a wide range of movement disorders. We use state-of-the-art equipment and cutting-edge analysis techniques to provide precise and accurate data on gait, posture, balance, and more. Our team of experts includes biomechanists, engineers, neuroscientists and other specialists, who work together to provide comprehensive assessments and customized treatment plans for each patient.\n:::\n\n\n\nOur sports performance analysis services are designed to help athletes of all levels achieve their full potential. Whether you are a professional athlete looking to improve your performance on the field or a weekend warrior looking to optimize your training regimen, we can help. We use the latest technology and analysis techniques to provide precise and accurate data on factors such as running gait, jump mechanics, and more. Our team of experts works closely with each athlete to help them achieve their goals.\nAt Motion Metrics, our team of experts brings together extensive experience in data science, sports science, bioengineering, and psychology to deliver unparalleled data analytics solutions. Our founders, all holding PhDs, boast a combined publication record of over 150 peer-reviewed papers, showcasing their deep expertise and innovative contributions to their respective fields.\n\n\n\n• Data Science: Leveraging advanced statistical methods and machine learning techniques to uncover actionable insights. • Sports Science: Enhancing athletic performance through precise data analysis and tailored recommendations. • Bioengineering: Integrating biological data with cutting-edge technology to drive scientific advancements. • Psychology: Applying psychological principles to understand and predict human behavior through data.\n\n\n\nWe proudly collaborate with a diverse range of clients, including: • Professional Sports Clubs e.g. Premier League Clubs: Providing data-driven strategies to optimize player performance and game tactics. • Pharmaceutical Companies: Streamlining data integration and analysis to accelerate drug development and improve patient outcomes. • Startups: Offering bespoke data solutions to help emerging businesses gain a competitive edge and scale effectively.\n\n\n\nWe specialize in creating individualized solutions that seamlessly integrate, visualize, and analyze your data using state-of-the-art technology. Our approach ensures that each client receives tailored insights and strategies that drive success and innovation in their respective industries.\n\n\n\nOur clinical movement analysis services are designed to provide medical professionals with the critical information needed to diagnose, monitor, and treat a wide range of movement disorders. By utilizing the latest technologies and analytical techniques, we deliver precise and accurate data to support clinical decision-making.\n\n\n\nOur sports performance analysis services aim to help athletes of all levels achieve their full potential. We employ cutting-edge technologies and analytical methods to provide precise and accurate data on factors such as running gait, jump mechanics, and more. This enables athletes to enhance their performance and reach new heights.\nJoin us at Motion Metrics and harness the power of data to achieve your goals. Let’s transform your data into actionable insights and pave the way for a brighter, data-driven future."
+  },
+  {
+    "objectID": "services.html#services",
+    "href": "services.html#services",
+    "title": "Motion Metrics",
+    "section": "",
+    "text": "Our clinical movement analysis services are designed to provide healthcare professionals with the information they need to diagnose, monitor, and treat a wide range of movement disorders. We use state-of-the-art equipment and cutting-edge analysis techniques to provide precise and accurate data on gait, posture, balance, and more. Our team of experts includes biomechanists, engineers, neuroscientists and other specialists, who work together to provide comprehensive assessments and customized treatment plans for each patient.\n:::\n\n\n\nOur sports performance analysis services are designed to help athletes of all levels achieve their full potential. Whether you are a professional athlete looking to improve your performance on the field or a weekend warrior looking to optimize your training regimen, we can help. We use the latest technology and analysis techniques to provide precise and accurate data on factors such as running gait, jump mechanics, and more. Our team of experts works closely with each athlete to help them achieve their goals.\nAt Motion Metrics, our team of experts brings together extensive experience in data science, sports science, bioengineering, and psychology to deliver unparalleled data analytics solutions. Our founders, all holding PhDs, boast a combined publication record of over 150 peer-reviewed papers, showcasing their deep expertise and innovative contributions to their respective fields.\n\n\n\n• Data Science: Leveraging advanced statistical methods and machine learning techniques to uncover actionable insights. • Sports Science: Enhancing athletic performance through precise data analysis and tailored recommendations. • Bioengineering: Integrating biological data with cutting-edge technology to drive scientific advancements. • Psychology: Applying psychological principles to understand and predict human behavior through data.\n\n\n\nWe proudly collaborate with a diverse range of clients, including: • Professional Sports Clubs e.g. Premier League Clubs: Providing data-driven strategies to optimize player performance and game tactics. • Pharmaceutical Companies: Streamlining data integration and analysis to accelerate drug development and improve patient outcomes. • Startups: Offering bespoke data solutions to help emerging businesses gain a competitive edge and scale effectively.\n\n\n\nWe specialize in creating individualized solutions that seamlessly integrate, visualize, and analyze your data using state-of-the-art technology. Our approach ensures that each client receives tailored insights and strategies that drive success and innovation in their respective industries.\n\n\n\nOur clinical movement analysis services are designed to provide medical professionals with the critical information needed to diagnose, monitor, and treat a wide range of movement disorders. By utilizing the latest technologies and analytical techniques, we deliver precise and accurate data to support clinical decision-making.\n\n\n\nOur sports performance analysis services aim to help athletes of all levels achieve their full potential. We employ cutting-edge technologies and analytical methods to provide precise and accurate data on factors such as running gait, jump mechanics, and more. This enables athletes to enhance their performance and reach new heights.\nJoin us at Motion Metrics and harness the power of data to achieve your goals. Let’s transform your data into actionable insights and pave the way for a brighter, data-driven future."
+  },
+  {
+    "objectID": "people/staff/hansen_clint.html#about-me",
+    "href": "people/staff/hansen_clint.html#about-me",
+    "title": "Clint Hansen",
     "section": "About me",
-    "text": "About me\nI am an electrical and information engineer with a profound interest in the intersection of engineering and biomedical sciences, particularly as they apply to human health and medical technology. My educational journey in biomedical engineering at the Eindhoven University of Technology laid a strong foundation in this interdisciplinary field. This was further enriched by my pursuit of a Ph.D. in Electrical and Information Engineering at Kiel University, where I delved deep into the complexities of integrating engineering principles with biological systems.\nMy research trajectory has been marked by a consistent focus on applying engineering solutions to medical challenges. My work as a postdoctoral researcher at the University Hospital Schleswig-Holstein epitomizes this, where I employ my engineering expertise to contribute to medical research. This role, coupled with my previous experience as a doctoral researcher at the same institution and Kiel University, reflects my dedication to advancing healthcare through engineering innovations. Additionally, my time as a CAE Simulation Engineer at Code Product Solutions showcases my ability to apply complex engineering concepts in practical settings.\nThroughout my career, I have been deeply involved in scientific research, as evidenced by my numerous publications. These works, focusing on topics such as gait analysis in Parkinson’s disease and the development of algorithms for gait event detection, highlight my commitment to leveraging engineering for medical advancements. My approach is characterized by a unique blend of technical engineering skills and a deep understanding of biomedical applications, positioning me at the forefront of innovation in medical technology."
+    "text": "About me\nMy research focuses on understanding and characterizing the biomechanics of human movement, using theoretical frameworks and experimental studies. I am mainly interested in understanding the exploited motor strategies that help to explain the movements. The use of motion analysis combined with biomechanical protocols allows developing an understanding of how motor actions are planned and executed."
   },
   {
-    "objectID": "people/staff/romijnders_robbin.html#experience",
-    "href": "people/staff/romijnders_robbin.html#experience",
-    "title": "Robbin Romijnders",
+    "objectID": "people/staff/hansen_clint.html#experience",
+    "href": "people/staff/hansen_clint.html#experience",
+    "title": "Clint Hansen",
     "section": "Experience",
-    "text": "Experience\n\nUniversity Hospital Schleswig-Holstein | Kiel, Germany Postdoctoral Researcher (Wissenschaftlicher Mitarbeiter) | 07/2023–Present Engaged in advanced research projects, contributing to the development of innovative medical practices.\nUniversity Hospital Schleswig-Holstein | Kiel, Germany Doctoral Researcher (Wissenschaftlicher Mitarbeiter) | 02/2021–06/2023 Conducted doctoral-level research, focusing on groundbreaking studies in the field of medical science.\nKiel University | Kiel, Germany Doctoral Researcher (Wissenschaftlicher Mitarbeiter) | 12/2019–02/2021 Pursued doctoral studies, contributing to academic research and knowledge expansion in chosen field.\nCode Product Solutions | Eindhoven, The Netherlands CAE Simulation Engineer | 09/2015–06/2018 Specialized in CAE simulation, providing technical solutions and engineering expertise for diverse projects.\nJournal activities\nJournal of NeuroEngineering and Rehabilitation  Reviewer | 2020–Current\nSensors  Reviewer | 2018–Current"
+    "text": "Experience\n\nUniversitätskrankenhaus Schleswig-Holstein | Kiel, Germany Operations Project Lead & Deputy Working Group Leader, Neurogeriatrics | 07/2017–Present Responsibilities include conceptual planning and practical implementation of research and industrial projects, leading a team of PhDs and Postdocs, and training scientific juniors while supporting the university’s teaching program.\nASPETAR Hospital | Doha, Qatar Project Leader, Ligament Research | 03/2016–06/2017 Responsibilities included planning and developing the Assessment Center, creating and leading the team, and ensuring project performance and clinical relevance.\nNanyang Technological University | Singapore Research Associate | 08/2015–03/2016 Responsibilities included validating a novel, cable-driven, planar manipulator, human-robot interaction, and signal processing and numerical simulations.\nSorbonne Universities | Compiègne, France Research Associate | 10/2013–08/2015 Responsibilities included collaboration on the MANDARIN project and data analysis of 3D movement."
   },
   {
-    "objectID": "people/staff/romijnders_robbin.html#education",
-    "href": "people/staff/romijnders_robbin.html#education",
-    "title": "Robbin Romijnders",
+    "objectID": "people/staff/hansen_clint.html#journal-activities",
+    "href": "people/staff/hansen_clint.html#journal-activities",
+    "title": "Clint Hansen",
+    "section": "Journal activities",
+    "text": "Journal activities\n\nSensors  Editor | 2018–Current\nGait and Posture  Editor | 2022–Current"
+  },
+  {
+    "objectID": "people/staff/hansen_clint.html#education",
+    "href": "people/staff/hansen_clint.html#education",
+    "title": "Clint Hansen",
     "section": "Education",
-    "text": "Education\n\nUniversity of Kiel | Kiel, Schleswig-Holstein, Germany PhD Student (Electrical and Information Engineering), 2019–2023\nEindhoven University of Technology | Eindhoven, The Netherlands MSc in Biomedical Engineering | 2012–2015\nEindhoven University of Technology | Eindhoven, The Netherlands BSc in Biomedical Engineering | 2008–2012"
+    "text": "Education\n\nParis-Sud University | Paris, France PhD in Human Movement Science (Distinction) | 10/2010 - 09/2013\nChristian-Albrechts-University of Kiel | Kiel, Germany Magister Atrium in Sports Science | 10/2004 - 09/2010"
   }
 ]
