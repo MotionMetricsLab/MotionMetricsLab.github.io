@@ -34,6 +34,7 @@ This package includes:
 **Graphical representation of joint angles**
 **Comparison of patient joint angles with normative data**
 **Comprehensive report highlighting any abnormal movement patterns**
+
 ![](./img/EMG.webp){.hero} 
 
 #### Module 2: Muscular Activity (EMG) in Sports Movements
@@ -49,7 +50,9 @@ This package includes:
 **Graphical representation of muscle activation patterns**
 **Comparison of patient muscle activation with normative data**
 **Comprehensive report highlighting weaknesses or imbalances**
+
 ![](./img/EMG2.webp){.hero} 
+
 #### Module 3: Joint and Segment Angles, EMG, and Pedography
 
 Duration: Approximately 90 minutes
