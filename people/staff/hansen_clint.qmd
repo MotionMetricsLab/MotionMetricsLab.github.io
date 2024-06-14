@@ -2,7 +2,7 @@
 title: "Clint Hansen"
 sortby: "1"
 subtitle: "CEO"
-image: hansen_clint.jpg
+image: Mugshot.jpg
 toc: false
 about:
   id: person-profile
