@@ -35,7 +35,7 @@ This package includes:
 - **Comparison of patient joint angles with normative data**
 - **Comprehensive report highlighting any abnormal movement patterns**
 
-![](./img/EMG.webp){.hero} 
+![](./img/Modeling.jpg){.hero} 
 
 #### Module 2: Muscular Activity (EMG) in Sports Movements
 
@@ -69,7 +69,7 @@ This package includes:
 - **Comparison of patient data with normative data**
 - **Comprehensive report highlighting abnormal movement patterns, weaknesses, imbalances, and balance and stability issues**
 
-![](./img/Modeling.jpg){.hero} 
+![](./img/myoPressure-Report.webp){.hero} 
 
 For inquiries about customized offers, please contact us at info@motionmetrics.com.
 
