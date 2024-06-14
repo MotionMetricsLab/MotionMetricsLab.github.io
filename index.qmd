@@ -9,10 +9,12 @@ toc: false
 At Motion Metrics, our team of experts brings together extensive experience in data science, sports science, bioengineering, and psychology to deliver unparalleled data analytics solutions. Our founders, all holding PhDs, boast a combined publication record of over 150 peer-reviewed papers, showcasing their deep expertise and innovative contributions to their respective fields.
 
 ### Our Expertise
-Data Science: Leveraging advanced statistical methods and machine learning techniques to uncover actionable insights.
-Sports Science: Enhancing athletic performance through precise data analysis and tailored recommendations.
-Bioengineering: Integrating biological data with cutting-edge technology to drive scientific advancements.
-Psychology: Applying psychological principles to understand and predict human behavior through data.
+
+1. **Data Science:** Leveraging advanced statistical methods and machine learning techniques to uncover actionable insights.
+2. **Sports Science:** Enhancing athletic performance through precise data analysis and tailored recommendations.
+3. **Bioengineering:** Integrating biological data with cutting-edge technology to drive scientific advancements.
+4. **Psychology:** Applying psychological principles to understand and predict human behavior through data.
+
 
 ### Our Clients
 
