@@ -20,43 +20,52 @@ Our sports performance analysis services aim to help athletes of all levels achi
 Our 3D movement analysis is an innovative solution utilizing cutting-edge technology to provide advanced assessments of your movement patterns in real-time. Using state-of-the-art motion capture technologies, we offer detailed evaluations for a wide range of activities, including walking, running, jumping, throwing, cycling, and golf swings. Collaboration for Optimal Performance and Injury Prevention
 We closely collaborate with doctors, physiotherapists, and trainers to optimize your physical performance and prevent or treat injuries. Our services are tailored to meet individual needs, ensuring comprehensive movement analysis for everyone. In addition to 3D motion capture, other technologies can be integrated into our movement analysis services to provide even more comprehensive data. We offer three distinct movement analysis modules:
 
+
 #### Module 1: Joint and Segment Angle Determination (Kinematics)
 
 Duration: Approximately 45 minutes
 Price: 200 EUR
-This module focuses on analyzing joint and segment angles, such as during walking or running. It includes detailed analysis of various joints like the hip, knee, ankle, and foot to identify abnormal movement patterns. This package includes:
+This module focuses on analyzing joint and segment angles, such as during walking or running. It includes detailed analysis of various joints like the hip, knee, ankle, and foot to identify abnormal movement patterns. 
 
-3D motion capture system for recording joint angles
-Detailed analysis of joint angles during the gait cycle
-Graphical representation of joint angles
-Comparison of patient joint angles with normative data
-Comprehensive report highlighting any abnormal movement patterns
+This package includes:
+
+**3D motion capture system for recording joint angles**
+**Detailed analysis of joint angles during the gait cycle**
+**Graphical representation of joint angles**
+**Comparison of patient joint angles with normative data**
+**Comprehensive report highlighting any abnormal movement patterns**
+![](./img/EMG.webp){.hero} 
 
 #### Module 2: Muscular Activity (EMG) in Sports Movements
 
 Duration: Approximately 60 minutes
 Price: 250 EUR
-This module focuses on analyzing muscular activity, such as during walking or running. It includes detailed analysis of muscles like glutes, quadriceps, hamstrings, and calves to assess activation patterns and identify any weaknesses or imbalances. This package includes:
+This module focuses on analyzing muscular activity, such as during walking or running. It includes detailed analysis of muscles like glutes, quadriceps, hamstrings, and calves to assess activation patterns and identify any weaknesses or imbalances. 
 
-EMG sensors for recording muscle activity
-Detailed analysis of muscle activation patterns during the gait cycle
-Graphical representation of muscle activation patterns
-Comparison of patient muscle activation with normative data
-Comprehensive report highlighting weaknesses or imbalances
+This package includes:
 
+**EMG sensors for recording muscle activity**
+**Detailed analysis of muscle activation patterns during the gait cycle**
+**Graphical representation of muscle activation patterns**
+**Comparison of patient muscle activation with normative data**
+**Comprehensive report highlighting weaknesses or imbalances**
+![](./img/EMG2.webp){.hero} 
 #### Module 3: Joint and Segment Angles, EMG, and Pedography
 
 Duration: Approximately 90 minutes
 Price: 350 EUR
-This module combines the previous two modules to analyze joint and muscle activity along with foot pressure distribution. The data collected helps evaluate balance and stability during activities such as walking or running. This package includes:
+This module combines the previous two modules to analyze joint and muscle activity along with foot pressure distribution. The data collected helps evaluate balance and stability during activities such as walking or running. 
 
-3D motion capture system for recording joint angles
-EMG sensors for recording muscle activity
-Pedography system for recording foot pressure distribution
-Detailed analysis of joint angles, muscle activation, and foot pressure distribution during the gait cycle
-Graphical representation of joint angles, muscle activation, and foot pressure distribution
-Comparison of patient data with normative data
-Comprehensive report highlighting abnormal movement patterns, weaknesses, imbalances, and balance and stability issues
+This package includes:
+
+**3D motion capture system for recording joint angles**
+**EMG sensors for recording muscle activity**
+**Pedography system for recording foot pressure distribution**
+**Detailed analysis of joint angles, muscle activation, and foot pressure distribution during the gait cycle**
+**Graphical representation of joint angles, muscle activation, and foot pressure distribution**
+**Comparison of patient data with normative data**
+**Comprehensive report highlighting abnormal movement patterns, weaknesses, imbalances, and balance and stability issues**
+![](./img/Modeling.jpg){.hero} 
 
 For inquiries about customized offers, please contact us at info@motionmetrics.com.
 
