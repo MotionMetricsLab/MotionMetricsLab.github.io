@@ -19,13 +19,13 @@ Our sports performance analysis services aim to help athletes of all levels achi
 ### Advanced Movement Analysis for Better Performance
 Our 3D movement analysis is an innovative solution utilizing cutting-edge technology to provide advanced assessments of your movement patterns in real-time. Using state-of-the-art motion capture technologies, we offer detailed evaluations for a wide range of activities, including walking, running, jumping, throwing, cycling, and golf swings.
 
-###  Collaboration for Optimal Performance and Injury Prevention
+#### Collaboration for Optimal Performance and Injury Prevention
 We closely collaborate with doctors, physiotherapists, and trainers to optimize your physical performance and prevent or treat injuries. Our services are tailored to meet individual needs, ensuring comprehensive movement analysis for everyone.
 
-Custom Modules for Everyone
+### Custom Modules for Everyone
 In addition to 3D motion capture, other technologies can be integrated into our movement analysis services to provide even more comprehensive data. We offer three distinct movement analysis modules:
 
-### Module 1: Joint and Segment Angle Determination (Kinematics)
+#### Module 1: Joint and Segment Angle Determination (Kinematics)
 
 Duration: Approximately 45 minutes
 Price: 200 EUR
@@ -37,7 +37,7 @@ Graphical representation of joint angles
 Comparison of patient joint angles with normative data
 Comprehensive report highlighting any abnormal movement patterns
 
-### Module 2: Muscular Activity (EMG) in Sports Movements
+#### Module 2: Muscular Activity (EMG) in Sports Movements
 
 Duration: Approximately 60 minutes
 Price: 250 EUR
@@ -49,7 +49,7 @@ Graphical representation of muscle activation patterns
 Comparison of patient muscle activation with normative data
 Comprehensive report highlighting weaknesses or imbalances
 
-### Module 3: Joint and Segment Angles, EMG, and Pedography
+#### Module 3: Joint and Segment Angles, EMG, and Pedography
 
 Duration: Approximately 90 minutes
 Price: 350 EUR
