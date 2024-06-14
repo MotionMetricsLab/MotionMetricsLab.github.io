@@ -23,8 +23,8 @@ We closely collaborate with doctors, physiotherapists, and trainers to optimize 
 
 #### Module 1: Joint and Segment Angle Determination (Kinematics)
 
-Duration: Approximately 45 minutes  
-Price: 200 EUR  
+Duration: **Approximately 45 minutes**
+Price: **200 EUR**  
 This module focuses on analyzing joint and segment angles, such as during walking or running. It includes detailed analysis of various joints like the hip, knee, ankle, and foot to identify abnormal movement patterns. 
 
 This package includes:
@@ -39,8 +39,8 @@ This package includes:
 
 #### Module 2: Muscular Activity (EMG) in Sports Movements
 
-- Duration: Approximately 60 minutes
-- Price: 250 EUR
+- Duration: **Approximately 60 minutes**
+- Price: **250 EUR**
 This module focuses on analyzing muscular activity, such as during walking or running. It includes a detailed analysis of muscles like glutes, quadriceps, hamstrings, and calves to assess activation patterns and identify any weaknesses or imbalances. 
 
 This package includes:
@@ -55,8 +55,8 @@ This package includes:
 
 #### Module 3: Joint and Segment Angles, EMG, and Pedography
 
-Duration: Approximately 90 minutes
-Price: 350 EUR
+Duration: **Approximately 90 minutes**
+Price: **350 EUR**
 This module combines the previous two modules to analyze joint and muscle activity along with foot pressure distribution. The data collected helps evaluate balance and stability during activities such as walking or running. 
 
 This package includes:
