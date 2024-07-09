@@ -1,15 +1,5 @@
 [
   {
-    "listing": "/publications.html",
-    "items": [
-      "/publications/articles/romijnders2022.html",
-      "/publications/articles/warmerdam2020.html",
-      "/publications/articles/hansen2022.html",
-      "/publications/articles/romijnders2021.html",
-      "/publications/articles/hansen2018.html"
-    ]
-  },
-  {
     "listing": "/people.html",
     "items": [
       "/people/staff/hansen_clint.html",
