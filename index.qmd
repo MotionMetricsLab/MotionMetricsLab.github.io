@@ -21,6 +21,3 @@ At Motion Metrics, our team of experts brings together extensive experience in d
 - **Premier League Clubs:** Providing data-driven strategies to optimize player performance and game tactics.
 - **Pharmaceutical Companies:** Streamlining data integration and analysis to accelerate drug development and improve patient outcomes.
 - **Startups:** Offering bespoke data solutions to help emerging businesses gain a competitive edge and scale effectively.
-
-
-![](./img/reporting2.png){.hero}
